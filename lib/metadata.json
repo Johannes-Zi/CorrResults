@@ -1,0 +1,2762 @@
+{
+  "vaultName": "html_page",
+  "lastExport": 1729012145494,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "LiteratureResearch/GeneDump/AASS.md",
+    "LiteratureResearch/GeneDump/ACSBG1.md",
+    "LiteratureResearch/GeneDump/ACVRL1.md",
+    "LiteratureResearch/GeneDump/ADM2.md",
+    "LiteratureResearch/GeneDump/AOC3.md",
+    "LiteratureResearch/GeneDump/AVP.md",
+    "LiteratureResearch/GeneDump/BATF3.md",
+    "LiteratureResearch/GeneDump/BCR.md",
+    "LiteratureResearch/GeneDump/BIN3.md",
+    "LiteratureResearch/GeneDump/BLK.md",
+    "LiteratureResearch/GeneDump/BMERB1.md",
+    "LiteratureResearch/GeneDump/BSPRY.md",
+    "LiteratureResearch/GeneDump/C1QA.md",
+    "LiteratureResearch/GeneDump/C1QB.md",
+    "LiteratureResearch/GeneDump/CADM1.md",
+    "LiteratureResearch/GeneDump/CCR2.md",
+    "LiteratureResearch/GeneDump/CD72.md",
+    "LiteratureResearch/GeneDump/CETP.md",
+    "LiteratureResearch/GeneDump/DEPP1.md",
+    "LiteratureResearch/GeneDump/ECM1.md",
+    "LiteratureResearch/GeneDump/EGR1.md",
+    "LiteratureResearch/GeneDump/ENG.md",
+    "LiteratureResearch/GeneDump/FAM124B.md",
+    "LiteratureResearch/GeneDump/FBLN2.md",
+    "LiteratureResearch/GeneDump/FFAR1.md",
+    "LiteratureResearch/GeneDump/FSCN2.md",
+    "LiteratureResearch/GeneDump/GLI1.md",
+    "LiteratureResearch/GeneDump/GNB4.md",
+    "LiteratureResearch/GeneDump/HEXIM2.md",
+    "LiteratureResearch/GeneDump/ICAM4.md",
+    "LiteratureResearch/GeneDump/IFITM3.md",
+    "LiteratureResearch/GeneDump/IL18R1.md",
+    "LiteratureResearch/GeneDump/IL31RA.md",
+    "LiteratureResearch/GeneDump/IRF4.md",
+    "LiteratureResearch/GeneDump/JPH4.md",
+    "LiteratureResearch/GeneDump/KCNC3.md",
+    "LiteratureResearch/GeneDump/KLRD1.md",
+    "LiteratureResearch/GeneDump/LIF.md",
+    "LiteratureResearch/GeneDump/MAOB.md",
+    "LiteratureResearch/GeneDump/MCF2L.md",
+    "LiteratureResearch/GeneDump/MYBL2.md",
+    "LiteratureResearch/GeneDump/MYC.md",
+    "LiteratureResearch/GeneDump/MYLK.md",
+    "LiteratureResearch/GeneDump/NDN.md",
+    "LiteratureResearch/GeneDump/NDUFB1.md",
+    "LiteratureResearch/GeneDump/NEFM.md",
+    "LiteratureResearch/GeneDump/NFIC.md",
+    "LiteratureResearch/GeneDump/PARD3.md",
+    "LiteratureResearch/GeneDump/PDE9A.md",
+    "LiteratureResearch/GeneDump/PEX11G.md",
+    "LiteratureResearch/GeneDump/POLR3G.md",
+    "LiteratureResearch/GeneDump/PROK2.md",
+    "LiteratureResearch/GeneDump/RND1.md",
+    "LiteratureResearch/GeneDump/SDC1.md",
+    "LiteratureResearch/GeneDump/SDK2.md",
+    "LiteratureResearch/GeneDump/SIRPB1.md",
+    "LiteratureResearch/GeneDump/SLC24A3.md",
+    "LiteratureResearch/GeneDump/SPACA6.md",
+    "LiteratureResearch/GeneDump/SPRY2.md",
+    "LiteratureResearch/GeneDump/TMCC2.md",
+    "LiteratureResearch/GeneDump/TMEM9.md",
+    "LiteratureResearch/GeneDump/TNFRSF13C.md",
+    "LiteratureResearch/GeneDump/TPH1.md",
+    "LiteratureResearch/GeneDump/TRAF5.md",
+    "LiteratureResearch/GeneDump/TRIM47.md",
+    "LiteratureResearch/GeneDump/TXNL4A.md",
+    "LiteratureResearch/GeneDump/UBE3D.md",
+    "LiteratureResearch/GeneDump/UBR4.md",
+    "LiteratureResearch/GeneDump/USP44.md",
+    "LiteratureResearch/GeneDump/WASF3.md",
+    "LiteratureResearch/plot_dump/X-0.3534652016234_ENSG00000127481_chr1.19209546.19209555.png",
+    "LiteratureResearch/plot_dump/X-0.34115435227279_ENSG00000139567_chr12.51907898.51908147.png",
+    "LiteratureResearch/plot_dump/X-0.44999021101088_ENSG00000131398_chr19.50331805.50331954.png",
+    "LiteratureResearch/plot_dump/X-0.51197851455015_ENSG00000183648_chr14.92122347.92122546.png",
+    "LiteratureResearch/plot_dump/X-0.264086351006347_ENSG00000106991_chr9.127853598.127853857.png",
+    "LiteratureResearch/plot_dump/X-0.280612068020731_ENSG00000127481_chr1.19209546.19209555.png",
+    "LiteratureResearch/plot_dump/X-0.317984295649887_ENSG00000104722_chr8.24915498.24915557.png",
+    "LiteratureResearch/plot_dump/X-0.388080201932803_ENSG00000119411_chr9.113350051.113350600.png",
+    "LiteratureResearch/plot_dump/X-0.402641010620334_ENSG00000126266_chr19.35350252.35350351.png",
+    "LiteratureResearch/plot_dump/X-0.405479918605537_ENSG00000143369_chr1.150506202.150506251.png",
+    "LiteratureResearch/plot_dump/X-0.407618217584307_ENSG00000106991_chr9.127853598.127853857.png",
+    "LiteratureResearch/plot_dump/X-0.409411976842975_ENSG00000168517_chr17.45161200.45161249.png",
+    "LiteratureResearch/plot_dump/X-0.417123585332189_ENSG00000114450_chr3.179450656.179450805.png",
+    "LiteratureResearch/plot_dump/X-0.426234756865677_ENSG00000126266_chr19.35350252.35350351.png",
+    "LiteratureResearch/plot_dump/X-0.437403722743327_ENSG00000092051_chr14.23580350.23580599.png",
+    "LiteratureResearch/plot_dump/X-0.444456073196506_ENSG00000163421_chr3.71786356.71786445.png",
+    "LiteratureResearch/plot_dump/X-0.445899147419675_ENSG00000148498_chr10.34814645.34814854.png",
+    "LiteratureResearch/plot_dump/X-0.447030955746106_ENSG00000082512_chr1.211328405.211328615.png",
+    "LiteratureResearch/plot_dump/X-0.470549348715638_ENSG00000141759_chr18.80031999.80032158.png",
+    "LiteratureResearch/plot_dump/X-0.470889386401492_ENSG00000131398_chr19.50331805.50331954.png",
+    "LiteratureResearch/plot_dump/X-0.476207029657531_ENSG00000173369_chr1.22653592.22653941.png",
+    "LiteratureResearch/plot_dump/X-0.478266226523006_ENSG00000160191_chr21.42653101.42653200.png",
+    "LiteratureResearch/plot_dump/X-0.478266226523006_ENSG00000160191_chr21.42653101.42653200 1.png",
+    "LiteratureResearch/plot_dump/X-0.491843918489212_ENSG00000121807_chr3.46353154.46353403.png",
+    "LiteratureResearch/plot_dump/X-0.492391869053166_ENSG00000173369_chr1.22653592.22653941.png",
+    "LiteratureResearch/plot_dump/X-0.494291144522273_ENSG00000121807_chr3.46353154.46353403.png",
+    "LiteratureResearch/plot_dump/X-0.500856135434196_ENSG00000159958_chr22.41927056.41927305.png",
+    "LiteratureResearch/plot_dump/X-0.500856135434196_ENSG00000159958_chr22.41927056.41927305 1.png",
+    "LiteratureResearch/plot_dump/X-0.505057498652164_ENSG00000087237_chr16.56961923.56962152.png",
+    "LiteratureResearch/plot_dump/X-0.508442547618748_ENSG00000132481_chr17.75880251.75880580.png",
+    "LiteratureResearch/plot_dump/X-0.508681625894439_ENSG00000114450_chr3.179450656.179450805.png",
+    "LiteratureResearch/plot_dump/X-0.510118323658172_ENSG00000168517_chr17.45161200.45161249.png",
+    "LiteratureResearch/plot_dump/X-0.511572157494249_ENSG00000183648_chr14.92122347.92122546.png",
+    "LiteratureResearch/plot_dump/X-0.518312986376532_ENSG00000104883_chr19.7496959.7497048.png",
+    "LiteratureResearch/plot_dump/X-0.532891867551651_ENSG00000069535_chrX.43880900.43881199.png",
+    "LiteratureResearch/plot_dump/X-0.536639555044671_ENSG00000136014_chr12.95551956.95552145.png",
+    "LiteratureResearch/plot_dump/X-0.539200207318231_ENSG00000147439_chr8.22669858.22669947.png",
+    "LiteratureResearch/plot_dump/X-0.542280327086649_ENSG00000124019_chr2.224401247.224401396.png",
+    "LiteratureResearch/plot_dump/X-0.546623944697402_ENSG00000139567_chr12.51907898.51908147.png",
+    "LiteratureResearch/plot_dump/X-0.548805375747759_ENSG00000163421_chr3.71786356.71786445.png",
+    "LiteratureResearch/plot_dump/X-0.550398950346568_ENSG00000163421_chr3.71786356.71786445.png",
+    "LiteratureResearch/plot_dump/X-0.551688740890246_ENSG00000116857_chr1.201171504.201171573.png",
+    "LiteratureResearch/plot_dump/X-0.555041740417994_ENSG00000186765_chr17.81527997.81528046.png",
+    "LiteratureResearch/plot_dump/X-0.559445940746441_ENSG00000159958_chr22.41927056.41927305.png",
+    "LiteratureResearch/plot_dump/X-0.560817732823596_ENSG00000132481_chr17.75880251.75880580.png",
+    "LiteratureResearch/plot_dump/X-0.563450749462579_ENSG00000128165_chr22.50479803.50479902.png",
+    "LiteratureResearch/plot_dump/X-0.565217391304348_ENSG00000124019_chr2.224401247.224401396.png",
+    "LiteratureResearch/plot_dump/X-0.565878063939569_ENSG00000133069_chr1.205229706.205229755.png",
+    "LiteratureResearch/plot_dump/X-0.566929432863315_ENSG00000186716_chr22.23180944.23181053.png",
+    "LiteratureResearch/plot_dump/X-0.572015831622048_ENSG00000137265_chr6.392002.392041.png",
+    "LiteratureResearch/plot_dump/X-0.576994432758012_ENSG00000147439_chr8.22669858.22669947.png",
+    "LiteratureResearch/plot_dump/X-0.578812669346605_ENSG00000133069_chr1.205229706.205229755.png",
+    "LiteratureResearch/plot_dump/X-0.599492420662617_ENSG00000128165_chr22.50479803.50479902.png",
+    "LiteratureResearch/plot_dump/X-0.602060635622852_ENSG00000165507_chr10.44980559.44980598.png",
+    "LiteratureResearch/plot_dump/X-0.610392781028997_ENSG00000069535_chrX.43880900.43881199.png",
+    "LiteratureResearch/plot_dump/X-0.615341068167943_ENSG00000116857_chr1.201171504.201171573.png",
+    "LiteratureResearch/plot_dump/X-0.625000916273829_ENSG00000087237_chr16.56961923.56962152.png",
+    "LiteratureResearch/plot_dump/X-0.626279424983056_ENSG00000172602_chr12.48867210.48867349.png",
+    "LiteratureResearch/plot_dump/X-0.628809895440828_ENSG00000172602_chr12.48867210.48867349.png",
+    "LiteratureResearch/plot_dump/X-0.640294515258469_ENSG00000119411_chr9.113350051.113350600.png",
+    "LiteratureResearch/plot_dump/X-0.647386108074329_ENSG00000141759_chr18.80031999.80032158.png",
+    "LiteratureResearch/plot_dump/X-0.652888361182894_ENSG00000069535_chrX.43880900.43881199.png",
+    "LiteratureResearch/plot_dump/X-0.655061695502661_ENSG00000137101_chr9.35647700.35647749.png",
+    "LiteratureResearch/plot_dump/X-0.674842593847891_ENSG00000128165_chr22.50479803.50479902.png",
+    "LiteratureResearch/plot_dump/X-0.679526734971685_ENSG00000165507_chr10.44980559.44980598.png",
+    "LiteratureResearch/plot_dump/X-0.709812235903985_ENSG00000136014_chr12.95551956.95552145.png",
+    "LiteratureResearch/plot_dump/X-0.744137553098035_ENSG00000137101_chr9.35647700.35647749.png",
+    "LiteratureResearch/plot_dump/X0.2524969579821_ENSG00000120738_chr5.138466759.138466998.png",
+    "LiteratureResearch/plot_dump/X0.30977259950247_ENSG00000118420_chr6.83065751.83065800.png",
+    "LiteratureResearch/plot_dump/X0.37035795874218_ENSG00000111087_chr12.57461045.57461604.png",
+    "LiteratureResearch/plot_dump/X0.38077105054779_ENSG00000116857_chr1.201173354.201173403.png",
+    "LiteratureResearch/plot_dump/X0.38077105054779_ENSG00000116857_chr1.201173354.201173403 1.png",
+    "LiteratureResearch/plot_dump/X0.40007768791627_ENSG00000069188_chr17.73643905.73644104.png",
+    "LiteratureResearch/plot_dump/X0.45789111773944_ENSG00000065534_chr3.123885002.123885151.png",
+    "LiteratureResearch/plot_dump/X0.56364950170978_ENSG00000115604_chr2.102311309.102311398.png",
+    "LiteratureResearch/plot_dump/X0.62207022736098_ENSG00000132970_chr13.26556103.26556792.png",
+    "LiteratureResearch/plot_dump/X0.66769711356067_ENSG00000132970_chr13.26556103.26556792.png",
+    "LiteratureResearch/plot_dump/X0.136517767549384_ENSG00000104722_chr8.24915498.24915557.png",
+    "LiteratureResearch/plot_dump/X0.143614156981566_ENSG00000131471_chr17.42849754.42849853.png",
+    "LiteratureResearch/plot_dump/X0.186977499352447_ENSG00000136573_chr8.11486204.11486343.png",
+    "LiteratureResearch/plot_dump/X0.309404421967792_ENSG00000101057_chr20.43667899.43668008.png",
+    "LiteratureResearch/plot_dump/X0.332826861139384_ENSG00000115884_chr2.20224403.20224502.png",
+    "LiteratureResearch/plot_dump/X0.337498102883354_ENSG00000182985_chr11.115503047.115503596.png",
+    "LiteratureResearch/plot_dump/X0.381171381292806_ENSG00000129167_chr11.18047249.18047448.png",
+    "LiteratureResearch/plot_dump/X0.398768042453456_ENSG00000136158_chr13.80339126.80339195.png",
+    "LiteratureResearch/plot_dump/X0.398935403357672_ENSG00000131471_chr17.42849754.42849853.png",
+    "LiteratureResearch/plot_dump/X0.403132419424492_ENSG00000136573_chr8.11486204.11486343.png",
+    "LiteratureResearch/plot_dump/X0.406576522236749_ENSG00000136997_chr8.127737154.127737343.png",
+    "LiteratureResearch/plot_dump/X0.409566315098446_ENSG00000069188_chr17.73643905.73644104.png",
+    "LiteratureResearch/plot_dump/X0.416255301432664_ENSG00000166780_chr16.15435795.15435854.png",
+    "LiteratureResearch/plot_dump/X0.418860153131241_ENSG00000128342_chr22.30247659.30247698.png",
+    "LiteratureResearch/plot_dump/X0.418963162200026_ENSG00000101200_chr20.3082724.3082853.png",
+    "LiteratureResearch/plot_dump/X0.421320323069108_ENSG00000173372_chr1.22635348.22635397.png",
+    "LiteratureResearch/plot_dump/X0.421320323069108_ENSG00000173372_chr1.22635348.22635397 1.png",
+    "LiteratureResearch/plot_dump/X0.435010233662421_ENSG00000160191_chr21.42653101.42653200.png",
+    "LiteratureResearch/plot_dump/X0.435320426546348_ENSG00000136997_chr8.127737154.127737343.png",
+    "LiteratureResearch/plot_dump/X0.435820012353856_ENSG00000134539_chr12.10226998.10227197.png",
+    "LiteratureResearch/plot_dump/X0.435820012353856_ENSG00000134539_chr12.10226998.10227197 1.png",
+    "LiteratureResearch/plot_dump/X0.437841121010921_ENSG00000101057_chr20.43667899.43668008.png",
+    "LiteratureResearch/plot_dump/X0.438021619079612_ENSG00000141905_chr19.3315703.3315902.png",
+    "LiteratureResearch/plot_dump/X0.441514016144204_ENSG00000148498_chr10.34814645.34814854.png",
+    "LiteratureResearch/plot_dump/X0.441514016144204_ENSG00000148498_chr10.34814645.34814854 1.png",
+    "LiteratureResearch/plot_dump/X0.446134293581859_ENSG00000129167_chr11.18047249.18047448.png",
+    "LiteratureResearch/plot_dump/X0.447102038578805_ENSG00000166780_chr16.15435795.15435854.png",
+    "LiteratureResearch/plot_dump/X0.447373245911302_ENSG00000182636_chr15.23686755.23687054.png",
+    "LiteratureResearch/plot_dump/X0.451623931623932_ENSG00000111087_chr12.57461045.57461604.png",
+    "LiteratureResearch/plot_dump/X0.454187420796908_ENSG00000185052_chr20.19212802.19212901.png",
+    "LiteratureResearch/plot_dump/X0.457955189747712_ENSG00000113356_chr5.90473458.90473547.png",
+    "LiteratureResearch/plot_dump/X0.462649272489503_ENSG00000116857_chr1.201173354.201173403.png",
+    "LiteratureResearch/plot_dump/X0.463013063316725_ENSG00000065534_chr3.123885002.123885151.png",
+    "LiteratureResearch/plot_dump/X0.464624555443145_ENSG00000182636_chr15.23686755.23687054.png",
+    "LiteratureResearch/plot_dump/X0.482629132926501_ENSG00000123685_chr1.212700750.212700809.png",
+    "LiteratureResearch/plot_dump/X0.484755823486822_ENSG00000185052_chr20.19212802.19212901.png",
+    "LiteratureResearch/plot_dump/X0.484805328476797_ENSG00000008311_chr7.122145748.122145957.png",
+    "LiteratureResearch/plot_dump/X0.490239698682551_ENSG00000182985_chr11.115503047.115503596.png",
+    "LiteratureResearch/plot_dump/X0.490451182883573_ENSG00000115604_chr2.102311309.102311398.png",
+    "LiteratureResearch/plot_dump/X0.497727081709257_ENSG00000101307_chr20.1621351.1621950.png",
+    "LiteratureResearch/plot_dump/X0.504338365489988_ENSG00000115884_chr2.20224403.20224502.png",
+    "LiteratureResearch/plot_dump/X0.520008165218343_ENSG00000163520_chr3.13550995.13551054.png",
+    "LiteratureResearch/plot_dump/X0.526521270104345_ENSG00000103740_chr15.78243688.78243847.png",
+    "LiteratureResearch/plot_dump/X0.533248115759203_ENSG00000134539_chr12.10226998.10227197.png",
+    "LiteratureResearch/plot_dump/X0.534159576695956_ENSG00000173372_chr1.22635348.22635397.png",
+    "LiteratureResearch/plot_dump/X0.545278541272798_ENSG00000120738_chr5.138466759.138466998.png",
+    "LiteratureResearch/plot_dump/X0.549916811338795_ENSG00000163520_chr3.13550995.13551054.png",
+    "LiteratureResearch/plot_dump/X0.551025467773231_ENSG00000118420_chr6.83065751.83065800.png",
+    "LiteratureResearch/plot_dump/X0.555984333366221_ENSG00000101307_chr20.1621351.1621950.png",
+    "LiteratureResearch/plot_dump/X0.558001637663955_ENSG00000113356_chr5.90473458.90473547.png",
+    "LiteratureResearch/plot_dump/X0.567330246986036_ENSG00000128342_chr22.30247659.30247698.png",
+    "LiteratureResearch/plot_dump/X0.582634089574314_ENSG00000132970_chr13.26556103.26556792.png",
+    "LiteratureResearch/plot_dump/X0.587101574631927_ENSG00000136158_chr13.80339126.80339195.png",
+    "LiteratureResearch/plot_dump/X0.633588318356837_ENSG00000103740_chr15.78243688.78243847.png",
+    "LiteratureResearch/plot_dump/X0.633588318356837_ENSG00000103740_chr15.78243688.78243847 1.png",
+    "LiteratureResearch/plot_dump/X0.711765807251866_ENSG00000182310_chr19.51690548.51690747.png",
+    "LiteratureResearch/Targets/CheckTopCorrelationsOfEnrichInput.md",
+    "LiteratureResearch/Targets/ExtractFromLiterature.md",
+    "LiteratureResearch/Targets/PotentialHitsOfInterest.md",
+    "lib/media/x0.484805328476797_ensg00000008311_chr7.122145748.122145957.png",
+    "lib/media/x0.526521270104345_ensg00000103740_chr15.78243688.78243847.png",
+    "lib/media/x0.633588318356837_ensg00000103740_chr15.78243688.78243847-1.png",
+    "lib/media/x-0.546623944697402_ensg00000139567_chr12.51907898.51908147.png",
+    "lib/media/x-0.34115435227279_ensg00000139567_chr12.51907898.51908147.png",
+    "lib/media/x-0.674842593847891_ensg00000128165_chr22.50479803.50479902.png",
+    "lib/media/x-0.599492420662617_ensg00000128165_chr22.50479803.50479902.png",
+    "lib/media/x-0.563450749462579_ensg00000128165_chr22.50479803.50479902.png",
+    "lib/media/x0.398935403357672_ensg00000131471_chr17.42849754.42849853.png",
+    "lib/media/x0.143614156981566_ensg00000131471_chr17.42849754.42849853.png",
+    "lib/media/x0.418963162200026_ensg00000101200_chr20.3082724.3082853.png",
+    "lib/media/x0.482629132926501_ensg00000123685_chr1.212700750.212700809.png",
+    "lib/media/x-0.566929432863315_ensg00000186716_chr22.23180944.23181053.png",
+    "lib/media/x-0.576994432758012_ensg00000147439_chr8.22669858.22669947.png",
+    "lib/media/x-0.539200207318231_ensg00000147439_chr8.22669858.22669947.png",
+    "lib/media/x0.403132419424492_ensg00000136573_chr8.11486204.11486343.png",
+    "lib/media/x0.186977499352447_ensg00000136573_chr8.11486204.11486343.png",
+    "lib/media/x0.416255301432664_ensg00000166780_chr16.15435795.15435854.png",
+    "lib/media/x0.447102038578805_ensg00000166780_chr16.15435795.15435854.png",
+    "lib/media/x-0.640294515258469_ensg00000119411_chr9.113350051.113350600.png",
+    "lib/media/x-0.388080201932803_ensg00000119411_chr9.113350051.113350600.png",
+    "lib/media/x0.534159576695956_ensg00000173372_chr1.22635348.22635397.png",
+    "lib/media/x0.421320323069108_ensg00000173372_chr1.22635348.22635397-1.png",
+    "lib/media/x-0.492391869053166_ensg00000173369_chr1.22653592.22653941.png",
+    "lib/media/x-0.476207029657531_ensg00000173369_chr1.22653592.22653941.png",
+    "lib/media/x0.490239698682551_ensg00000182985_chr11.115503047.115503596.png",
+    "lib/media/x0.337498102883354_ensg00000182985_chr11.115503047.115503596.png",
+    "lib/media/x-0.494291144522273_ensg00000121807_chr3.46353154.46353403.png",
+    "lib/media/x-0.491843918489212_ensg00000121807_chr3.46353154.46353403.png",
+    "lib/media/x-0.744137553098035_ensg00000137101_chr9.35647700.35647749.png",
+    "lib/media/x-0.655061695502661_ensg00000137101_chr9.35647700.35647749.png",
+    "lib/media/x-0.625000916273829_ensg00000087237_chr16.56961923.56962152.png",
+    "lib/media/x-0.505057498652164_ensg00000087237_chr16.56961923.56962152.png",
+    "lib/media/x-0.679526734971685_ensg00000165507_chr10.44980559.44980598.png",
+    "lib/media/x-0.602060635622852_ensg00000165507_chr10.44980559.44980598.png",
+    "lib/media/x-0.405479918605537_ensg00000143369_chr1.150506202.150506251.png",
+    "lib/media/x0.545278541272798_ensg00000120738_chr5.138466759.138466998.png",
+    "lib/media/x0.2524969579821_ensg00000120738_chr5.138466759.138466998.png",
+    "lib/media/x-0.407618217584307_ensg00000106991_chr9.127853598.127853857.png",
+    "lib/media/x-0.264086351006347_ensg00000106991_chr9.127853598.127853857.png",
+    "lib/media/x-0.565217391304348_ensg00000124019_chr2.224401247.224401396.png",
+    "lib/media/x-0.542280327086649_ensg00000124019_chr2.224401247.224401396.png",
+    "lib/media/x0.549916811338795_ensg00000163520_chr3.13550995.13551054.png",
+    "lib/media/x0.520008165218343_ensg00000163520_chr3.13550995.13551054.png",
+    "lib/media/x-0.426234756865677_ensg00000126266_chr19.35350252.35350351.png",
+    "lib/media/x-0.402641010620334_ensg00000126266_chr19.35350252.35350351.png",
+    "lib/media/x-0.555041740417994_ensg00000186765_chr17.81527997.81528046.png",
+    "lib/media/x0.451623931623932_ensg00000111087_chr12.57461045.57461604.png",
+    "lib/media/x0.37035795874218_ensg00000111087_chr12.57461045.57461604.png",
+    "lib/media/x-0.508681625894439_ensg00000114450_chr3.179450656.179450805.png",
+    "lib/media/x-0.417123585332189_ensg00000114450_chr3.179450656.179450805.png",
+    "lib/media/x-0.510118323658172_ensg00000168517_chr17.45161200.45161249.png",
+    "lib/media/x-0.409411976842975_ensg00000168517_chr17.45161200.45161249.png",
+    "lib/media/x0.56364950170978_ensg00000115604_chr2.102311309.102311398.png",
+    "lib/media/x0.490451182883573_ensg00000115604_chr2.102311309.102311398.png",
+    "lib/media/x-0.572015831622048_ensg00000137265_chr6.392002.392041.png",
+    "lib/media/x-0.437403722743327_ensg00000092051_chr14.23580350.23580599.png",
+    "lib/media/x-0.470889386401492_ensg00000131398_chr19.50331805.50331954.png",
+    "lib/media/x-0.44999021101088_ensg00000131398_chr19.50331805.50331954.png",
+    "lib/media/x0.533248115759203_ensg00000134539_chr12.10226998.10227197.png",
+    "lib/media/x0.435820012353856_ensg00000134539_chr12.10226998.10227197-1.png",
+    "lib/media/x0.567330246986036_ensg00000128342_chr22.30247659.30247698.png",
+    "lib/media/x0.418860153131241_ensg00000128342_chr22.30247659.30247698.png",
+    "lib/media/x-0.652888361182894_ensg00000069535_chrx.43880900.43881199.png",
+    "lib/media/x-0.610392781028997_ensg00000069535_chrx.43880900.43881199.png",
+    "lib/media/x-0.532891867551651_ensg00000069535_chrx.43880900.43881199.png",
+    "lib/media/x0.437841121010921_ensg00000101057_chr20.43667899.43668008.png",
+    "lib/media/x0.309404421967792_ensg00000101057_chr20.43667899.43668008.png",
+    "lib/media/x0.435320426546348_ensg00000136997_chr8.127737154.127737343.png",
+    "lib/media/x0.406576522236749_ensg00000136997_chr8.127737154.127737343.png",
+    "lib/media/x0.463013063316725_ensg00000065534_chr3.123885002.123885151.png",
+    "lib/media/x0.45789111773944_ensg00000065534_chr3.123885002.123885151.png",
+    "lib/media/x0.464624555443145_ensg00000182636_chr15.23686755.23687054.png",
+    "lib/media/x0.447373245911302_ensg00000182636_chr15.23686755.23687054.png",
+    "lib/media/x-0.51197851455015_ensg00000183648_chr14.92122347.92122546.png",
+    "lib/media/x-0.511572157494249_ensg00000183648_chr14.92122347.92122546.png",
+    "lib/media/x-0.317984295649887_ensg00000104722_chr8.24915498.24915557.png",
+    "lib/media/x0.136517767549384_ensg00000104722_chr8.24915498.24915557.png",
+    "lib/media/x0.438021619079612_ensg00000141905_chr19.3315703.3315902.png",
+    "lib/media/x-0.445899147419675_ensg00000148498_chr10.34814645.34814854.png",
+    "lib/media/x0.441514016144204_ensg00000148498_chr10.34814645.34814854-1.png",
+    "lib/media/x-0.478266226523006_ensg00000160191_chr21.42653101.42653200-1.png",
+    "lib/media/x0.435010233662421_ensg00000160191_chr21.42653101.42653200.png",
+    "lib/media/x-0.518312986376532_ensg00000104883_chr19.7496959.7497048.png",
+    "lib/media/x0.558001637663955_ensg00000113356_chr5.90473458.90473547.png",
+    "lib/media/x0.457955189747712_ensg00000113356_chr5.90473458.90473547.png",
+    "lib/media/x-0.550398950346568_ensg00000163421_chr3.71786356.71786445.png",
+    "lib/media/x-0.548805375747759_ensg00000163421_chr3.71786356.71786445.png",
+    "lib/media/x-0.444456073196506_ensg00000163421_chr3.71786356.71786445.png",
+    "lib/media/x-0.626279424983056_ensg00000172602_chr12.48867210.48867349.png",
+    "lib/media/x-0.628809895440828_ensg00000172602_chr12.48867210.48867349.png",
+    "lib/media/x0.504338365489988_ensg00000115884_chr2.20224403.20224502.png",
+    "lib/media/x0.332826861139384_ensg00000115884_chr2.20224403.20224502.png",
+    "lib/media/x0.40007768791627_ensg00000069188_chr17.73643905.73644104.png",
+    "lib/media/x0.409566315098446_ensg00000069188_chr17.73643905.73644104.png",
+    "lib/media/x0.555984333366221_ensg00000101307_chr20.1621351.1621950.png",
+    "lib/media/x0.497727081709257_ensg00000101307_chr20.1621351.1621950.png",
+    "lib/media/x0.454187420796908_ensg00000185052_chr20.19212802.19212901.png",
+    "lib/media/x0.484755823486822_ensg00000185052_chr20.19212802.19212901.png",
+    "lib/media/x0.711765807251866_ensg00000182310_chr19.51690548.51690747.png",
+    "lib/media/x0.587101574631927_ensg00000136158_chr13.80339126.80339195.png",
+    "lib/media/x0.398768042453456_ensg00000136158_chr13.80339126.80339195.png",
+    "lib/media/x-0.565878063939569_ensg00000133069_chr1.205229706.205229755.png",
+    "lib/media/x-0.578812669346605_ensg00000133069_chr1.205229706.205229755.png",
+    "lib/media/x0.38077105054779_ensg00000116857_chr1.201173354.201173403-1.png",
+    "lib/media/x-0.615341068167943_ensg00000116857_chr1.201171504.201171573.png",
+    "lib/media/x0.462649272489503_ensg00000116857_chr1.201173354.201173403.png",
+    "lib/media/x-0.551688740890246_ensg00000116857_chr1.201171504.201171573.png",
+    "lib/media/x-0.559445940746441_ensg00000159958_chr22.41927056.41927305.png",
+    "lib/media/x-0.500856135434196_ensg00000159958_chr22.41927056.41927305-1.png",
+    "lib/media/x0.446134293581859_ensg00000129167_chr11.18047249.18047448.png",
+    "lib/media/x0.381171381292806_ensg00000129167_chr11.18047249.18047448.png",
+    "lib/media/x-0.447030955746106_ensg00000082512_chr1.211328405.211328615.png",
+    "lib/media/x-0.560817732823596_ensg00000132481_chr17.75880251.75880580.png",
+    "lib/media/x-0.508442547618748_ensg00000132481_chr17.75880251.75880580.png",
+    "lib/media/x-0.647386108074329_ensg00000141759_chr18.80031999.80032158.png",
+    "lib/media/x-0.470549348715638_ensg00000141759_chr18.80031999.80032158.png",
+    "lib/media/x0.551025467773231_ensg00000118420_chr6.83065751.83065800.png",
+    "lib/media/x0.30977259950247_ensg00000118420_chr6.83065751.83065800.png",
+    "lib/media/x-0.3534652016234_ensg00000127481_chr1.19209546.19209555.png",
+    "lib/media/x-0.280612068020731_ensg00000127481_chr1.19209546.19209555.png",
+    "lib/media/x-0.709812235903985_ensg00000136014_chr12.95551956.95552145.png",
+    "lib/media/x-0.536639555044671_ensg00000136014_chr12.95551956.95552145.png",
+    "lib/media/x0.582634089574314_ensg00000132970_chr13.26556103.26556792.png",
+    "lib/media/x0.66769711356067_ensg00000132970_chr13.26556103.26556792.png",
+    "lib/media/x0.62207022736098_ensg00000132970_chr13.26556103.26556792.png",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css"
+  ],
+  "fileInfo": {
+    "LiteratureResearch/GeneDump/AASS.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1466,
+      "exportedPath": "literatureresearch/genedump/aass.html",
+      "dependencies": [
+        "lib/media/x0.484805328476797_ensg00000008311_chr7.122145748.122145957.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/ACSBG1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1526,
+      "exportedPath": "literatureresearch/genedump/acsbg1.html",
+      "dependencies": [
+        "lib/media/x0.526521270104345_ensg00000103740_chr15.78243688.78243847.png",
+        "lib/media/x0.633588318356837_ensg00000103740_chr15.78243688.78243847-1.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/ACVRL1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2175,
+      "exportedPath": "literatureresearch/genedump/acvrl1.html",
+      "dependencies": [
+        "lib/media/x-0.546623944697402_ensg00000139567_chr12.51907898.51908147.png",
+        "lib/media/x-0.34115435227279_ensg00000139567_chr12.51907898.51908147.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/ADM2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1916,
+      "exportedPath": "literatureresearch/genedump/adm2.html",
+      "dependencies": [
+        "lib/media/x-0.674842593847891_ensg00000128165_chr22.50479803.50479902.png",
+        "lib/media/x-0.599492420662617_ensg00000128165_chr22.50479803.50479902.png",
+        "lib/media/x-0.563450749462579_ensg00000128165_chr22.50479803.50479902.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/AOC3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2169,
+      "exportedPath": "literatureresearch/genedump/aoc3.html",
+      "dependencies": [
+        "lib/media/x0.398935403357672_ensg00000131471_chr17.42849754.42849853.png",
+        "lib/media/x0.143614156981566_ensg00000131471_chr17.42849754.42849853.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/AVP.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2660,
+      "exportedPath": "literatureresearch/genedump/avp.html",
+      "dependencies": [
+        "lib/media/x0.418963162200026_ensg00000101200_chr20.3082724.3082853.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/BATF3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1597,
+      "exportedPath": "literatureresearch/genedump/batf3.html",
+      "dependencies": [
+        "lib/media/x0.482629132926501_ensg00000123685_chr1.212700750.212700809.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/BCR.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2100,
+      "exportedPath": "literatureresearch/genedump/bcr.html",
+      "dependencies": [
+        "lib/media/x-0.566929432863315_ensg00000186716_chr22.23180944.23181053.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/BIN3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1138,
+      "exportedPath": "literatureresearch/genedump/bin3.html",
+      "dependencies": [
+        "lib/media/x-0.576994432758012_ensg00000147439_chr8.22669858.22669947.png",
+        "lib/media/x-0.539200207318231_ensg00000147439_chr8.22669858.22669947.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/BLK.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1734,
+      "exportedPath": "literatureresearch/genedump/blk.html",
+      "dependencies": [
+        "lib/media/x0.403132419424492_ensg00000136573_chr8.11486204.11486343.png",
+        "lib/media/x0.186977499352447_ensg00000136573_chr8.11486204.11486343.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/BMERB1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 914,
+      "exportedPath": "literatureresearch/genedump/bmerb1.html",
+      "dependencies": [
+        "lib/media/x0.416255301432664_ensg00000166780_chr16.15435795.15435854.png",
+        "lib/media/x0.447102038578805_ensg00000166780_chr16.15435795.15435854.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/BSPRY.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1138,
+      "exportedPath": "literatureresearch/genedump/bspry.html",
+      "dependencies": [
+        "lib/media/x-0.640294515258469_ensg00000119411_chr9.113350051.113350600.png",
+        "lib/media/x-0.388080201932803_ensg00000119411_chr9.113350051.113350600.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/C1QA.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1719,
+      "exportedPath": "literatureresearch/genedump/c1qa.html",
+      "dependencies": [
+        "lib/media/x0.534159576695956_ensg00000173372_chr1.22635348.22635397.png",
+        "lib/media/x0.421320323069108_ensg00000173372_chr1.22635348.22635397-1.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/C1QB.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1578,
+      "exportedPath": "literatureresearch/genedump/c1qb.html",
+      "dependencies": [
+        "lib/media/x-0.492391869053166_ensg00000173369_chr1.22653592.22653941.png",
+        "lib/media/x-0.476207029657531_ensg00000173369_chr1.22653592.22653941.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/CADM1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2130,
+      "exportedPath": "literatureresearch/genedump/cadm1.html",
+      "dependencies": [
+        "lib/media/x0.490239698682551_ensg00000182985_chr11.115503047.115503596.png",
+        "lib/media/x0.337498102883354_ensg00000182985_chr11.115503047.115503596.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/CCR2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1884,
+      "exportedPath": "literatureresearch/genedump/ccr2.html",
+      "dependencies": [
+        "lib/media/x-0.494291144522273_ensg00000121807_chr3.46353154.46353403.png",
+        "lib/media/x-0.491843918489212_ensg00000121807_chr3.46353154.46353403.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/CD72.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1291,
+      "exportedPath": "literatureresearch/genedump/cd72.html",
+      "dependencies": [
+        "lib/media/x-0.744137553098035_ensg00000137101_chr9.35647700.35647749.png",
+        "lib/media/x-0.655061695502661_ensg00000137101_chr9.35647700.35647749.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/CETP.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1647,
+      "exportedPath": "literatureresearch/genedump/cetp.html",
+      "dependencies": [
+        "lib/media/x-0.625000916273829_ensg00000087237_chr16.56961923.56962152.png",
+        "lib/media/x-0.505057498652164_ensg00000087237_chr16.56961923.56962152.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/DEPP1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 869,
+      "exportedPath": "literatureresearch/genedump/depp1.html",
+      "dependencies": [
+        "lib/media/x-0.679526734971685_ensg00000165507_chr10.44980559.44980598.png",
+        "lib/media/x-0.602060635622852_ensg00000165507_chr10.44980559.44980598.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/ECM1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1816,
+      "exportedPath": "literatureresearch/genedump/ecm1.html",
+      "dependencies": [
+        "lib/media/x-0.405479918605537_ensg00000143369_chr1.150506202.150506251.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/EGR1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1799,
+      "exportedPath": "literatureresearch/genedump/egr1.html",
+      "dependencies": [
+        "lib/media/x0.545278541272798_ensg00000120738_chr5.138466759.138466998.png",
+        "lib/media/x0.2524969579821_ensg00000120738_chr5.138466759.138466998.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/ENG.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1977,
+      "exportedPath": "literatureresearch/genedump/eng.html",
+      "dependencies": [
+        "lib/media/x-0.407618217584307_ensg00000106991_chr9.127853598.127853857.png",
+        "lib/media/x-0.264086351006347_ensg00000106991_chr9.127853598.127853857.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/FAM124B.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1097,
+      "exportedPath": "literatureresearch/genedump/fam124b.html",
+      "dependencies": [
+        "lib/media/x-0.565217391304348_ensg00000124019_chr2.224401247.224401396.png",
+        "lib/media/x-0.542280327086649_ensg00000124019_chr2.224401247.224401396.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/FBLN2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1665,
+      "exportedPath": "literatureresearch/genedump/fbln2.html",
+      "dependencies": [
+        "lib/media/x0.549916811338795_ensg00000163520_chr3.13550995.13551054.png",
+        "lib/media/x0.520008165218343_ensg00000163520_chr3.13550995.13551054.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/FFAR1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1555,
+      "exportedPath": "literatureresearch/genedump/ffar1.html",
+      "dependencies": [
+        "lib/media/x-0.426234756865677_ensg00000126266_chr19.35350252.35350351.png",
+        "lib/media/x-0.402641010620334_ensg00000126266_chr19.35350252.35350351.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/FSCN2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1615,
+      "exportedPath": "literatureresearch/genedump/fscn2.html",
+      "dependencies": [
+        "lib/media/x-0.555041740417994_ensg00000186765_chr17.81527997.81528046.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/GLI1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2076,
+      "exportedPath": "literatureresearch/genedump/gli1.html",
+      "dependencies": [
+        "lib/media/x0.451623931623932_ensg00000111087_chr12.57461045.57461604.png",
+        "lib/media/x0.37035795874218_ensg00000111087_chr12.57461045.57461604.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/GNB4.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1890,
+      "exportedPath": "literatureresearch/genedump/gnb4.html",
+      "dependencies": [
+        "lib/media/x-0.508681625894439_ensg00000114450_chr3.179450656.179450805.png",
+        "lib/media/x-0.417123585332189_ensg00000114450_chr3.179450656.179450805.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/HEXIM2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1151,
+      "exportedPath": "literatureresearch/genedump/hexim2.html",
+      "dependencies": [
+        "lib/media/x-0.510118323658172_ensg00000168517_chr17.45161200.45161249.png",
+        "lib/media/x-0.409411976842975_ensg00000168517_chr17.45161200.45161249.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/ICAM4.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 280,
+      "exportedPath": "literatureresearch/genedump/icam4.html",
+      "dependencies": []
+    },
+    "LiteratureResearch/GeneDump/IFITM3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 230,
+      "exportedPath": "literatureresearch/genedump/ifitm3.html",
+      "dependencies": []
+    },
+    "LiteratureResearch/GeneDump/IL18R1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 354,
+      "exportedPath": "literatureresearch/genedump/il18r1.html",
+      "dependencies": [
+        "lib/media/x0.56364950170978_ensg00000115604_chr2.102311309.102311398.png",
+        "lib/media/x0.490451182883573_ensg00000115604_chr2.102311309.102311398.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/IL31RA.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88,
+      "exportedPath": "literatureresearch/genedump/il31ra.html",
+      "dependencies": []
+    },
+    "LiteratureResearch/GeneDump/IRF4.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1987,
+      "exportedPath": "literatureresearch/genedump/irf4.html",
+      "dependencies": [
+        "lib/media/x-0.572015831622048_ensg00000137265_chr6.392002.392041.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/JPH4.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1185,
+      "exportedPath": "literatureresearch/genedump/jph4.html",
+      "dependencies": [
+        "lib/media/x-0.437403722743327_ensg00000092051_chr14.23580350.23580599.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/KCNC3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1997,
+      "exportedPath": "literatureresearch/genedump/kcnc3.html",
+      "dependencies": [
+        "lib/media/x-0.470889386401492_ensg00000131398_chr19.50331805.50331954.png",
+        "lib/media/x-0.44999021101088_ensg00000131398_chr19.50331805.50331954.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/KLRD1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1963,
+      "exportedPath": "literatureresearch/genedump/klrd1.html",
+      "dependencies": [
+        "lib/media/x0.533248115759203_ensg00000134539_chr12.10226998.10227197.png",
+        "lib/media/x0.435820012353856_ensg00000134539_chr12.10226998.10227197-1.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/LIF.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2147,
+      "exportedPath": "literatureresearch/genedump/lif.html",
+      "dependencies": [
+        "lib/media/x0.567330246986036_ensg00000128342_chr22.30247659.30247698.png",
+        "lib/media/x0.418860153131241_ensg00000128342_chr22.30247659.30247698.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/MAOB.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2098,
+      "exportedPath": "literatureresearch/genedump/maob.html",
+      "dependencies": [
+        "lib/media/x-0.652888361182894_ensg00000069535_chrx.43880900.43881199.png",
+        "lib/media/x-0.610392781028997_ensg00000069535_chrx.43880900.43881199.png",
+        "lib/media/x-0.532891867551651_ensg00000069535_chrx.43880900.43881199.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/MCF2L.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1684,
+      "exportedPath": "literatureresearch/genedump/mcf2l.html",
+      "dependencies": []
+    },
+    "LiteratureResearch/GeneDump/MYBL2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2043,
+      "exportedPath": "literatureresearch/genedump/mybl2.html",
+      "dependencies": [
+        "lib/media/x0.437841121010921_ensg00000101057_chr20.43667899.43668008.png",
+        "lib/media/x0.309404421967792_ensg00000101057_chr20.43667899.43668008.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/MYC.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2145,
+      "exportedPath": "literatureresearch/genedump/myc.html",
+      "dependencies": [
+        "lib/media/x0.435320426546348_ensg00000136997_chr8.127737154.127737343.png",
+        "lib/media/x0.406576522236749_ensg00000136997_chr8.127737154.127737343.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/MYLK.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2495,
+      "exportedPath": "literatureresearch/genedump/mylk.html",
+      "dependencies": [
+        "lib/media/x0.463013063316725_ensg00000065534_chr3.123885002.123885151.png",
+        "lib/media/x0.45789111773944_ensg00000065534_chr3.123885002.123885151.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/NDN.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1442,
+      "exportedPath": "literatureresearch/genedump/ndn.html",
+      "dependencies": [
+        "lib/media/x0.464624555443145_ensg00000182636_chr15.23686755.23687054.png",
+        "lib/media/x0.447373245911302_ensg00000182636_chr15.23686755.23687054.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/NDUFB1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1311,
+      "exportedPath": "literatureresearch/genedump/ndufb1.html",
+      "dependencies": [
+        "lib/media/x-0.51197851455015_ensg00000183648_chr14.92122347.92122546.png",
+        "lib/media/x-0.511572157494249_ensg00000183648_chr14.92122347.92122546.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/NEFM.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1893,
+      "exportedPath": "literatureresearch/genedump/nefm.html",
+      "dependencies": [
+        "lib/media/x-0.317984295649887_ensg00000104722_chr8.24915498.24915557.png",
+        "lib/media/x0.136517767549384_ensg00000104722_chr8.24915498.24915557.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/NFIC.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1564,
+      "exportedPath": "literatureresearch/genedump/nfic.html",
+      "dependencies": [
+        "lib/media/x0.438021619079612_ensg00000141905_chr19.3315703.3315902.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/PARD3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1535,
+      "exportedPath": "literatureresearch/genedump/pard3.html",
+      "dependencies": [
+        "lib/media/x-0.445899147419675_ensg00000148498_chr10.34814645.34814854.png",
+        "lib/media/x0.441514016144204_ensg00000148498_chr10.34814645.34814854-1.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/PDE9A.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1846,
+      "exportedPath": "literatureresearch/genedump/pde9a.html",
+      "dependencies": [
+        "lib/media/x-0.478266226523006_ensg00000160191_chr21.42653101.42653200-1.png",
+        "lib/media/x0.435010233662421_ensg00000160191_chr21.42653101.42653200.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/PEX11G.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1040,
+      "exportedPath": "literatureresearch/genedump/pex11g.html",
+      "dependencies": [
+        "lib/media/x-0.518312986376532_ensg00000104883_chr19.7496959.7497048.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/POLR3G.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1556,
+      "exportedPath": "literatureresearch/genedump/polr3g.html",
+      "dependencies": [
+        "lib/media/x0.558001637663955_ensg00000113356_chr5.90473458.90473547.png",
+        "lib/media/x0.457955189747712_ensg00000113356_chr5.90473458.90473547.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/PROK2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2004,
+      "exportedPath": "literatureresearch/genedump/prok2.html",
+      "dependencies": [
+        "lib/media/x-0.550398950346568_ensg00000163421_chr3.71786356.71786445.png",
+        "lib/media/x-0.548805375747759_ensg00000163421_chr3.71786356.71786445.png",
+        "lib/media/x-0.444456073196506_ensg00000163421_chr3.71786356.71786445.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/RND1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1301,
+      "exportedPath": "literatureresearch/genedump/rnd1.html",
+      "dependencies": [
+        "lib/media/x-0.626279424983056_ensg00000172602_chr12.48867210.48867349.png",
+        "lib/media/x-0.628809895440828_ensg00000172602_chr12.48867210.48867349.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/SDC1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2159,
+      "exportedPath": "literatureresearch/genedump/sdc1.html",
+      "dependencies": [
+        "lib/media/x0.504338365489988_ensg00000115884_chr2.20224403.20224502.png",
+        "lib/media/x0.332826861139384_ensg00000115884_chr2.20224403.20224502.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/SDK2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2156,
+      "exportedPath": "literatureresearch/genedump/sdk2.html",
+      "dependencies": [
+        "lib/media/x0.40007768791627_ensg00000069188_chr17.73643905.73644104.png",
+        "lib/media/x0.409566315098446_ensg00000069188_chr17.73643905.73644104.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/SIRPB1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1855,
+      "exportedPath": "literatureresearch/genedump/sirpb1.html",
+      "dependencies": [
+        "lib/media/x0.555984333366221_ensg00000101307_chr20.1621351.1621950.png",
+        "lib/media/x0.497727081709257_ensg00000101307_chr20.1621351.1621950.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/SLC24A3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2183,
+      "exportedPath": "literatureresearch/genedump/slc24a3.html",
+      "dependencies": [
+        "lib/media/x0.454187420796908_ensg00000185052_chr20.19212802.19212901.png",
+        "lib/media/x0.484755823486822_ensg00000185052_chr20.19212802.19212901.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/SPACA6.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 629,
+      "exportedPath": "literatureresearch/genedump/spaca6.html",
+      "dependencies": [
+        "lib/media/x0.711765807251866_ensg00000182310_chr19.51690548.51690747.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/SPRY2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2589,
+      "exportedPath": "literatureresearch/genedump/spry2.html",
+      "dependencies": [
+        "lib/media/x0.587101574631927_ensg00000136158_chr13.80339126.80339195.png",
+        "lib/media/x0.398768042453456_ensg00000136158_chr13.80339126.80339195.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TMCC2.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 994,
+      "exportedPath": "literatureresearch/genedump/tmcc2.html",
+      "dependencies": [
+        "lib/media/x-0.565878063939569_ensg00000133069_chr1.205229706.205229755.png",
+        "lib/media/x-0.578812669346605_ensg00000133069_chr1.205229706.205229755.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TMEM9.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1570,
+      "exportedPath": "literatureresearch/genedump/tmem9.html",
+      "dependencies": [
+        "lib/media/x0.38077105054779_ensg00000116857_chr1.201173354.201173403-1.png",
+        "lib/media/x-0.615341068167943_ensg00000116857_chr1.201171504.201171573.png",
+        "lib/media/x0.462649272489503_ensg00000116857_chr1.201173354.201173403.png",
+        "lib/media/x-0.551688740890246_ensg00000116857_chr1.201171504.201171573.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TNFRSF13C.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2410,
+      "exportedPath": "literatureresearch/genedump/tnfrsf13c.html",
+      "dependencies": [
+        "lib/media/x-0.559445940746441_ensg00000159958_chr22.41927056.41927305.png",
+        "lib/media/x-0.500856135434196_ensg00000159958_chr22.41927056.41927305-1.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TPH1.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2072,
+      "exportedPath": "literatureresearch/genedump/tph1.html",
+      "dependencies": [
+        "lib/media/x0.446134293581859_ensg00000129167_chr11.18047249.18047448.png",
+        "lib/media/x0.381171381292806_ensg00000129167_chr11.18047249.18047448.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TRAF5.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1703,
+      "exportedPath": "literatureresearch/genedump/traf5.html",
+      "dependencies": [
+        "lib/media/x-0.447030955746106_ensg00000082512_chr1.211328405.211328615.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TRIM47.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1123,
+      "exportedPath": "literatureresearch/genedump/trim47.html",
+      "dependencies": [
+        "lib/media/x-0.560817732823596_ensg00000132481_chr17.75880251.75880580.png",
+        "lib/media/x-0.508442547618748_ensg00000132481_chr17.75880251.75880580.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/TXNL4A.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 2227,
+      "exportedPath": "literatureresearch/genedump/txnl4a.html",
+      "dependencies": [
+        "lib/media/x-0.647386108074329_ensg00000141759_chr18.80031999.80032158.png",
+        "lib/media/x-0.470549348715638_ensg00000141759_chr18.80031999.80032158.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/UBE3D.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1293,
+      "exportedPath": "literatureresearch/genedump/ube3d.html",
+      "dependencies": [
+        "lib/media/x0.551025467773231_ensg00000118420_chr6.83065751.83065800.png",
+        "lib/media/x0.30977259950247_ensg00000118420_chr6.83065751.83065800.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/UBR4.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1632,
+      "exportedPath": "literatureresearch/genedump/ubr4.html",
+      "dependencies": [
+        "lib/media/x-0.3534652016234_ensg00000127481_chr1.19209546.19209555.png",
+        "lib/media/x-0.280612068020731_ensg00000127481_chr1.19209546.19209555.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/USP44.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 3484,
+      "exportedPath": "literatureresearch/genedump/usp44.html",
+      "dependencies": [
+        "lib/media/x-0.709812235903985_ensg00000136014_chr12.95551956.95552145.png",
+        "lib/media/x-0.536639555044671_ensg00000136014_chr12.95551956.95552145.png"
+      ]
+    },
+    "LiteratureResearch/GeneDump/WASF3.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1829,
+      "exportedPath": "literatureresearch/genedump/wasf3.html",
+      "dependencies": [
+        "lib/media/x0.582634089574314_ensg00000132970_chr13.26556103.26556792.png",
+        "lib/media/x0.66769711356067_ensg00000132970_chr13.26556103.26556792.png",
+        "lib/media/x0.62207022736098_ensg00000132970_chr13.26556103.26556792.png"
+      ]
+    },
+    "LiteratureResearch/plot_dump/X-0.3534652016234_ENSG00000127481_chr1.19209546.19209555.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108484,
+      "exportedPath": "literatureresearch/plot_dump/x-0.3534652016234_ensg00000127481_chr1.19209546.19209555.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.34115435227279_ENSG00000139567_chr12.51907898.51908147.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 100478,
+      "exportedPath": "literatureresearch/plot_dump/x-0.34115435227279_ensg00000139567_chr12.51907898.51908147.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.44999021101088_ENSG00000131398_chr19.50331805.50331954.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 87845,
+      "exportedPath": "literatureresearch/plot_dump/x-0.44999021101088_ensg00000131398_chr19.50331805.50331954.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.51197851455015_ENSG00000183648_chr14.92122347.92122546.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108661,
+      "exportedPath": "literatureresearch/plot_dump/x-0.51197851455015_ensg00000183648_chr14.92122347.92122546.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.264086351006347_ENSG00000106991_chr9.127853598.127853857.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84256,
+      "exportedPath": "literatureresearch/plot_dump/x-0.264086351006347_ensg00000106991_chr9.127853598.127853857.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.280612068020731_ENSG00000127481_chr1.19209546.19209555.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 94629,
+      "exportedPath": "literatureresearch/plot_dump/x-0.280612068020731_ensg00000127481_chr1.19209546.19209555.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.317984295649887_ENSG00000104722_chr8.24915498.24915557.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90780,
+      "exportedPath": "literatureresearch/plot_dump/x-0.317984295649887_ensg00000104722_chr8.24915498.24915557.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.388080201932803_ENSG00000119411_chr9.113350051.113350600.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89720,
+      "exportedPath": "literatureresearch/plot_dump/x-0.388080201932803_ensg00000119411_chr9.113350051.113350600.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.402641010620334_ENSG00000126266_chr19.35350252.35350351.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 78171,
+      "exportedPath": "literatureresearch/plot_dump/x-0.402641010620334_ensg00000126266_chr19.35350252.35350351.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.405479918605537_ENSG00000143369_chr1.150506202.150506251.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93506,
+      "exportedPath": "literatureresearch/plot_dump/x-0.405479918605537_ensg00000143369_chr1.150506202.150506251.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.407618217584307_ENSG00000106991_chr9.127853598.127853857.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 117046,
+      "exportedPath": "literatureresearch/plot_dump/x-0.407618217584307_ensg00000106991_chr9.127853598.127853857.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.409411976842975_ENSG00000168517_chr17.45161200.45161249.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102289,
+      "exportedPath": "literatureresearch/plot_dump/x-0.409411976842975_ensg00000168517_chr17.45161200.45161249.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.417123585332189_ENSG00000114450_chr3.179450656.179450805.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96416,
+      "exportedPath": "literatureresearch/plot_dump/x-0.417123585332189_ensg00000114450_chr3.179450656.179450805.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.426234756865677_ENSG00000126266_chr19.35350252.35350351.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95817,
+      "exportedPath": "literatureresearch/plot_dump/x-0.426234756865677_ensg00000126266_chr19.35350252.35350351.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.437403722743327_ENSG00000092051_chr14.23580350.23580599.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95933,
+      "exportedPath": "literatureresearch/plot_dump/x-0.437403722743327_ensg00000092051_chr14.23580350.23580599.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.444456073196506_ENSG00000163421_chr3.71786356.71786445.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95902,
+      "exportedPath": "literatureresearch/plot_dump/x-0.444456073196506_ensg00000163421_chr3.71786356.71786445.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.445899147419675_ENSG00000148498_chr10.34814645.34814854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104721,
+      "exportedPath": "literatureresearch/plot_dump/x-0.445899147419675_ensg00000148498_chr10.34814645.34814854.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.447030955746106_ENSG00000082512_chr1.211328405.211328615.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102426,
+      "exportedPath": "literatureresearch/plot_dump/x-0.447030955746106_ensg00000082512_chr1.211328405.211328615.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.470549348715638_ENSG00000141759_chr18.80031999.80032158.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98205,
+      "exportedPath": "literatureresearch/plot_dump/x-0.470549348715638_ensg00000141759_chr18.80031999.80032158.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.470889386401492_ENSG00000131398_chr19.50331805.50331954.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90926,
+      "exportedPath": "literatureresearch/plot_dump/x-0.470889386401492_ensg00000131398_chr19.50331805.50331954.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.476207029657531_ENSG00000173369_chr1.22653592.22653941.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96373,
+      "exportedPath": "literatureresearch/plot_dump/x-0.476207029657531_ensg00000173369_chr1.22653592.22653941.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.478266226523006_ENSG00000160191_chr21.42653101.42653200.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 118118,
+      "exportedPath": "literatureresearch/plot_dump/x-0.478266226523006_ensg00000160191_chr21.42653101.42653200.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.478266226523006_ENSG00000160191_chr21.42653101.42653200 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 118118,
+      "exportedPath": "literatureresearch/plot_dump/x-0.478266226523006_ensg00000160191_chr21.42653101.42653200-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.491843918489212_ENSG00000121807_chr3.46353154.46353403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106204,
+      "exportedPath": "literatureresearch/plot_dump/x-0.491843918489212_ensg00000121807_chr3.46353154.46353403.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.492391869053166_ENSG00000173369_chr1.22653592.22653941.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108675,
+      "exportedPath": "literatureresearch/plot_dump/x-0.492391869053166_ensg00000173369_chr1.22653592.22653941.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.494291144522273_ENSG00000121807_chr3.46353154.46353403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104758,
+      "exportedPath": "literatureresearch/plot_dump/x-0.494291144522273_ensg00000121807_chr3.46353154.46353403.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.500856135434196_ENSG00000159958_chr22.41927056.41927305.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95583,
+      "exportedPath": "literatureresearch/plot_dump/x-0.500856135434196_ensg00000159958_chr22.41927056.41927305.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.500856135434196_ENSG00000159958_chr22.41927056.41927305 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95583,
+      "exportedPath": "literatureresearch/plot_dump/x-0.500856135434196_ensg00000159958_chr22.41927056.41927305-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.505057498652164_ENSG00000087237_chr16.56961923.56962152.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97660,
+      "exportedPath": "literatureresearch/plot_dump/x-0.505057498652164_ensg00000087237_chr16.56961923.56962152.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.508442547618748_ENSG00000132481_chr17.75880251.75880580.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95591,
+      "exportedPath": "literatureresearch/plot_dump/x-0.508442547618748_ensg00000132481_chr17.75880251.75880580.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.508681625894439_ENSG00000114450_chr3.179450656.179450805.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 103282,
+      "exportedPath": "literatureresearch/plot_dump/x-0.508681625894439_ensg00000114450_chr3.179450656.179450805.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.510118323658172_ENSG00000168517_chr17.45161200.45161249.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 119470,
+      "exportedPath": "literatureresearch/plot_dump/x-0.510118323658172_ensg00000168517_chr17.45161200.45161249.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.511572157494249_ENSG00000183648_chr14.92122347.92122546.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110439,
+      "exportedPath": "literatureresearch/plot_dump/x-0.511572157494249_ensg00000183648_chr14.92122347.92122546.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.518312986376532_ENSG00000104883_chr19.7496959.7497048.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88857,
+      "exportedPath": "literatureresearch/plot_dump/x-0.518312986376532_ensg00000104883_chr19.7496959.7497048.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.532891867551651_ENSG00000069535_chrX.43880900.43881199.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105724,
+      "exportedPath": "literatureresearch/plot_dump/x-0.532891867551651_ensg00000069535_chrx.43880900.43881199.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.536639555044671_ENSG00000136014_chr12.95551956.95552145.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101057,
+      "exportedPath": "literatureresearch/plot_dump/x-0.536639555044671_ensg00000136014_chr12.95551956.95552145.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.539200207318231_ENSG00000147439_chr8.22669858.22669947.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 99282,
+      "exportedPath": "literatureresearch/plot_dump/x-0.539200207318231_ensg00000147439_chr8.22669858.22669947.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.542280327086649_ENSG00000124019_chr2.224401247.224401396.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 122885,
+      "exportedPath": "literatureresearch/plot_dump/x-0.542280327086649_ensg00000124019_chr2.224401247.224401396.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.546623944697402_ENSG00000139567_chr12.51907898.51908147.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 115417,
+      "exportedPath": "literatureresearch/plot_dump/x-0.546623944697402_ensg00000139567_chr12.51907898.51908147.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.548805375747759_ENSG00000163421_chr3.71786356.71786445.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93509,
+      "exportedPath": "literatureresearch/plot_dump/x-0.548805375747759_ensg00000163421_chr3.71786356.71786445.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.550398950346568_ENSG00000163421_chr3.71786356.71786445.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92272,
+      "exportedPath": "literatureresearch/plot_dump/x-0.550398950346568_ensg00000163421_chr3.71786356.71786445.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.551688740890246_ENSG00000116857_chr1.201171504.201171573.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108112,
+      "exportedPath": "literatureresearch/plot_dump/x-0.551688740890246_ensg00000116857_chr1.201171504.201171573.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.555041740417994_ENSG00000186765_chr17.81527997.81528046.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105302,
+      "exportedPath": "literatureresearch/plot_dump/x-0.555041740417994_ensg00000186765_chr17.81527997.81528046.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.559445940746441_ENSG00000159958_chr22.41927056.41927305.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102400,
+      "exportedPath": "literatureresearch/plot_dump/x-0.559445940746441_ensg00000159958_chr22.41927056.41927305.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.560817732823596_ENSG00000132481_chr17.75880251.75880580.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104791,
+      "exportedPath": "literatureresearch/plot_dump/x-0.560817732823596_ensg00000132481_chr17.75880251.75880580.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.563450749462579_ENSG00000128165_chr22.50479803.50479902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 107026,
+      "exportedPath": "literatureresearch/plot_dump/x-0.563450749462579_ensg00000128165_chr22.50479803.50479902.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.565217391304348_ENSG00000124019_chr2.224401247.224401396.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 133734,
+      "exportedPath": "literatureresearch/plot_dump/x-0.565217391304348_ensg00000124019_chr2.224401247.224401396.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.565878063939569_ENSG00000133069_chr1.205229706.205229755.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 125990,
+      "exportedPath": "literatureresearch/plot_dump/x-0.565878063939569_ensg00000133069_chr1.205229706.205229755.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.566929432863315_ENSG00000186716_chr22.23180944.23181053.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110138,
+      "exportedPath": "literatureresearch/plot_dump/x-0.566929432863315_ensg00000186716_chr22.23180944.23181053.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.572015831622048_ENSG00000137265_chr6.392002.392041.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95026,
+      "exportedPath": "literatureresearch/plot_dump/x-0.572015831622048_ensg00000137265_chr6.392002.392041.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.576994432758012_ENSG00000147439_chr8.22669858.22669947.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102745,
+      "exportedPath": "literatureresearch/plot_dump/x-0.576994432758012_ensg00000147439_chr8.22669858.22669947.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.578812669346605_ENSG00000133069_chr1.205229706.205229755.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90282,
+      "exportedPath": "literatureresearch/plot_dump/x-0.578812669346605_ensg00000133069_chr1.205229706.205229755.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.599492420662617_ENSG00000128165_chr22.50479803.50479902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 109935,
+      "exportedPath": "literatureresearch/plot_dump/x-0.599492420662617_ensg00000128165_chr22.50479803.50479902.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.602060635622852_ENSG00000165507_chr10.44980559.44980598.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 109640,
+      "exportedPath": "literatureresearch/plot_dump/x-0.602060635622852_ensg00000165507_chr10.44980559.44980598.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.610392781028997_ENSG00000069535_chrX.43880900.43881199.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 117253,
+      "exportedPath": "literatureresearch/plot_dump/x-0.610392781028997_ensg00000069535_chrx.43880900.43881199.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.615341068167943_ENSG00000116857_chr1.201171504.201171573.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 109268,
+      "exportedPath": "literatureresearch/plot_dump/x-0.615341068167943_ensg00000116857_chr1.201171504.201171573.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.625000916273829_ENSG00000087237_chr16.56961923.56962152.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106053,
+      "exportedPath": "literatureresearch/plot_dump/x-0.625000916273829_ensg00000087237_chr16.56961923.56962152.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.626279424983056_ENSG00000172602_chr12.48867210.48867349.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 117106,
+      "exportedPath": "literatureresearch/plot_dump/x-0.626279424983056_ensg00000172602_chr12.48867210.48867349.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.628809895440828_ENSG00000172602_chr12.48867210.48867349.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110739,
+      "exportedPath": "literatureresearch/plot_dump/x-0.628809895440828_ensg00000172602_chr12.48867210.48867349.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.640294515258469_ENSG00000119411_chr9.113350051.113350600.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 107960,
+      "exportedPath": "literatureresearch/plot_dump/x-0.640294515258469_ensg00000119411_chr9.113350051.113350600.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.647386108074329_ENSG00000141759_chr18.80031999.80032158.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101068,
+      "exportedPath": "literatureresearch/plot_dump/x-0.647386108074329_ensg00000141759_chr18.80031999.80032158.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.652888361182894_ENSG00000069535_chrX.43880900.43881199.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 114643,
+      "exportedPath": "literatureresearch/plot_dump/x-0.652888361182894_ensg00000069535_chrx.43880900.43881199.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.655061695502661_ENSG00000137101_chr9.35647700.35647749.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101998,
+      "exportedPath": "literatureresearch/plot_dump/x-0.655061695502661_ensg00000137101_chr9.35647700.35647749.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.674842593847891_ENSG00000128165_chr22.50479803.50479902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106243,
+      "exportedPath": "literatureresearch/plot_dump/x-0.674842593847891_ensg00000128165_chr22.50479803.50479902.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.679526734971685_ENSG00000165507_chr10.44980559.44980598.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 120202,
+      "exportedPath": "literatureresearch/plot_dump/x-0.679526734971685_ensg00000165507_chr10.44980559.44980598.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.709812235903985_ENSG00000136014_chr12.95551956.95552145.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 118536,
+      "exportedPath": "literatureresearch/plot_dump/x-0.709812235903985_ensg00000136014_chr12.95551956.95552145.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X-0.744137553098035_ENSG00000137101_chr9.35647700.35647749.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 113589,
+      "exportedPath": "literatureresearch/plot_dump/x-0.744137553098035_ensg00000137101_chr9.35647700.35647749.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.2524969579821_ENSG00000120738_chr5.138466759.138466998.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84929,
+      "exportedPath": "literatureresearch/plot_dump/x0.2524969579821_ensg00000120738_chr5.138466759.138466998.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.30977259950247_ENSG00000118420_chr6.83065751.83065800.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89613,
+      "exportedPath": "literatureresearch/plot_dump/x0.30977259950247_ensg00000118420_chr6.83065751.83065800.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.37035795874218_ENSG00000111087_chr12.57461045.57461604.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93777,
+      "exportedPath": "literatureresearch/plot_dump/x0.37035795874218_ensg00000111087_chr12.57461045.57461604.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.38077105054779_ENSG00000116857_chr1.201173354.201173403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 103725,
+      "exportedPath": "literatureresearch/plot_dump/x0.38077105054779_ensg00000116857_chr1.201173354.201173403.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.38077105054779_ENSG00000116857_chr1.201173354.201173403 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 103725,
+      "exportedPath": "literatureresearch/plot_dump/x0.38077105054779_ensg00000116857_chr1.201173354.201173403-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.40007768791627_ENSG00000069188_chr17.73643905.73644104.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89882,
+      "exportedPath": "literatureresearch/plot_dump/x0.40007768791627_ensg00000069188_chr17.73643905.73644104.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.45789111773944_ENSG00000065534_chr3.123885002.123885151.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 94424,
+      "exportedPath": "literatureresearch/plot_dump/x0.45789111773944_ensg00000065534_chr3.123885002.123885151.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.56364950170978_ENSG00000115604_chr2.102311309.102311398.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106595,
+      "exportedPath": "literatureresearch/plot_dump/x0.56364950170978_ensg00000115604_chr2.102311309.102311398.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.62207022736098_ENSG00000132970_chr13.26556103.26556792.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110037,
+      "exportedPath": "literatureresearch/plot_dump/x0.62207022736098_ensg00000132970_chr13.26556103.26556792.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.66769711356067_ENSG00000132970_chr13.26556103.26556792.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106645,
+      "exportedPath": "literatureresearch/plot_dump/x0.66769711356067_ensg00000132970_chr13.26556103.26556792.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.136517767549384_ENSG00000104722_chr8.24915498.24915557.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 81868,
+      "exportedPath": "literatureresearch/plot_dump/x0.136517767549384_ensg00000104722_chr8.24915498.24915557.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.143614156981566_ENSG00000131471_chr17.42849754.42849853.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 75772,
+      "exportedPath": "literatureresearch/plot_dump/x0.143614156981566_ensg00000131471_chr17.42849754.42849853.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.186977499352447_ENSG00000136573_chr8.11486204.11486343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 75086,
+      "exportedPath": "literatureresearch/plot_dump/x0.186977499352447_ensg00000136573_chr8.11486204.11486343.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.309404421967792_ENSG00000101057_chr20.43667899.43668008.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 79625,
+      "exportedPath": "literatureresearch/plot_dump/x0.309404421967792_ensg00000101057_chr20.43667899.43668008.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.332826861139384_ENSG00000115884_chr2.20224403.20224502.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 83299,
+      "exportedPath": "literatureresearch/plot_dump/x0.332826861139384_ensg00000115884_chr2.20224403.20224502.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.337498102883354_ENSG00000182985_chr11.115503047.115503596.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 87952,
+      "exportedPath": "literatureresearch/plot_dump/x0.337498102883354_ensg00000182985_chr11.115503047.115503596.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.381171381292806_ENSG00000129167_chr11.18047249.18047448.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 87872,
+      "exportedPath": "literatureresearch/plot_dump/x0.381171381292806_ensg00000129167_chr11.18047249.18047448.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.398768042453456_ENSG00000136158_chr13.80339126.80339195.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 75028,
+      "exportedPath": "literatureresearch/plot_dump/x0.398768042453456_ensg00000136158_chr13.80339126.80339195.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.398935403357672_ENSG00000131471_chr17.42849754.42849853.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84659,
+      "exportedPath": "literatureresearch/plot_dump/x0.398935403357672_ensg00000131471_chr17.42849754.42849853.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.403132419424492_ENSG00000136573_chr8.11486204.11486343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92171,
+      "exportedPath": "literatureresearch/plot_dump/x0.403132419424492_ensg00000136573_chr8.11486204.11486343.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.406576522236749_ENSG00000136997_chr8.127737154.127737343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 81524,
+      "exportedPath": "literatureresearch/plot_dump/x0.406576522236749_ensg00000136997_chr8.127737154.127737343.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.409566315098446_ENSG00000069188_chr17.73643905.73644104.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 77875,
+      "exportedPath": "literatureresearch/plot_dump/x0.409566315098446_ensg00000069188_chr17.73643905.73644104.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.416255301432664_ENSG00000166780_chr16.15435795.15435854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93316,
+      "exportedPath": "literatureresearch/plot_dump/x0.416255301432664_ensg00000166780_chr16.15435795.15435854.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.418860153131241_ENSG00000128342_chr22.30247659.30247698.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92013,
+      "exportedPath": "literatureresearch/plot_dump/x0.418860153131241_ensg00000128342_chr22.30247659.30247698.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.418963162200026_ENSG00000101200_chr20.3082724.3082853.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97027,
+      "exportedPath": "literatureresearch/plot_dump/x0.418963162200026_ensg00000101200_chr20.3082724.3082853.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.421320323069108_ENSG00000173372_chr1.22635348.22635397.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 85287,
+      "exportedPath": "literatureresearch/plot_dump/x0.421320323069108_ensg00000173372_chr1.22635348.22635397.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.421320323069108_ENSG00000173372_chr1.22635348.22635397 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 85287,
+      "exportedPath": "literatureresearch/plot_dump/x0.421320323069108_ensg00000173372_chr1.22635348.22635397-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.435010233662421_ENSG00000160191_chr21.42653101.42653200.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89704,
+      "exportedPath": "literatureresearch/plot_dump/x0.435010233662421_ensg00000160191_chr21.42653101.42653200.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.435320426546348_ENSG00000136997_chr8.127737154.127737343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89218,
+      "exportedPath": "literatureresearch/plot_dump/x0.435320426546348_ensg00000136997_chr8.127737154.127737343.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.435820012353856_ENSG00000134539_chr12.10226998.10227197.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89523,
+      "exportedPath": "literatureresearch/plot_dump/x0.435820012353856_ensg00000134539_chr12.10226998.10227197.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.435820012353856_ENSG00000134539_chr12.10226998.10227197 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89523,
+      "exportedPath": "literatureresearch/plot_dump/x0.435820012353856_ensg00000134539_chr12.10226998.10227197-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.437841121010921_ENSG00000101057_chr20.43667899.43668008.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97630,
+      "exportedPath": "literatureresearch/plot_dump/x0.437841121010921_ensg00000101057_chr20.43667899.43668008.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.438021619079612_ENSG00000141905_chr19.3315703.3315902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 80837,
+      "exportedPath": "literatureresearch/plot_dump/x0.438021619079612_ensg00000141905_chr19.3315703.3315902.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.441514016144204_ENSG00000148498_chr10.34814645.34814854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88321,
+      "exportedPath": "literatureresearch/plot_dump/x0.441514016144204_ensg00000148498_chr10.34814645.34814854.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.441514016144204_ENSG00000148498_chr10.34814645.34814854 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88321,
+      "exportedPath": "literatureresearch/plot_dump/x0.441514016144204_ensg00000148498_chr10.34814645.34814854-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.446134293581859_ENSG00000129167_chr11.18047249.18047448.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95394,
+      "exportedPath": "literatureresearch/plot_dump/x0.446134293581859_ensg00000129167_chr11.18047249.18047448.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.447102038578805_ENSG00000166780_chr16.15435795.15435854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102213,
+      "exportedPath": "literatureresearch/plot_dump/x0.447102038578805_ensg00000166780_chr16.15435795.15435854.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.447373245911302_ENSG00000182636_chr15.23686755.23687054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88162,
+      "exportedPath": "literatureresearch/plot_dump/x0.447373245911302_ensg00000182636_chr15.23686755.23687054.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.451623931623932_ENSG00000111087_chr12.57461045.57461604.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106662,
+      "exportedPath": "literatureresearch/plot_dump/x0.451623931623932_ensg00000111087_chr12.57461045.57461604.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.454187420796908_ENSG00000185052_chr20.19212802.19212901.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 83332,
+      "exportedPath": "literatureresearch/plot_dump/x0.454187420796908_ensg00000185052_chr20.19212802.19212901.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.457955189747712_ENSG00000113356_chr5.90473458.90473547.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84351,
+      "exportedPath": "literatureresearch/plot_dump/x0.457955189747712_ensg00000113356_chr5.90473458.90473547.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.462649272489503_ENSG00000116857_chr1.201173354.201173403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96099,
+      "exportedPath": "literatureresearch/plot_dump/x0.462649272489503_ensg00000116857_chr1.201173354.201173403.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.463013063316725_ENSG00000065534_chr3.123885002.123885151.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 99216,
+      "exportedPath": "literatureresearch/plot_dump/x0.463013063316725_ensg00000065534_chr3.123885002.123885151.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.464624555443145_ENSG00000182636_chr15.23686755.23687054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88533,
+      "exportedPath": "literatureresearch/plot_dump/x0.464624555443145_ensg00000182636_chr15.23686755.23687054.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.482629132926501_ENSG00000123685_chr1.212700750.212700809.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95255,
+      "exportedPath": "literatureresearch/plot_dump/x0.482629132926501_ensg00000123685_chr1.212700750.212700809.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.484755823486822_ENSG00000185052_chr20.19212802.19212901.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92929,
+      "exportedPath": "literatureresearch/plot_dump/x0.484755823486822_ensg00000185052_chr20.19212802.19212901.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.484805328476797_ENSG00000008311_chr7.122145748.122145957.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90088,
+      "exportedPath": "literatureresearch/plot_dump/x0.484805328476797_ensg00000008311_chr7.122145748.122145957.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.490239698682551_ENSG00000182985_chr11.115503047.115503596.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101407,
+      "exportedPath": "literatureresearch/plot_dump/x0.490239698682551_ensg00000182985_chr11.115503047.115503596.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.490451182883573_ENSG00000115604_chr2.102311309.102311398.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96375,
+      "exportedPath": "literatureresearch/plot_dump/x0.490451182883573_ensg00000115604_chr2.102311309.102311398.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.497727081709257_ENSG00000101307_chr20.1621351.1621950.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98250,
+      "exportedPath": "literatureresearch/plot_dump/x0.497727081709257_ensg00000101307_chr20.1621351.1621950.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.504338365489988_ENSG00000115884_chr2.20224403.20224502.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 71854,
+      "exportedPath": "literatureresearch/plot_dump/x0.504338365489988_ensg00000115884_chr2.20224403.20224502.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.520008165218343_ENSG00000163520_chr3.13550995.13551054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92238,
+      "exportedPath": "literatureresearch/plot_dump/x0.520008165218343_ensg00000163520_chr3.13550995.13551054.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.526521270104345_ENSG00000103740_chr15.78243688.78243847.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 94147,
+      "exportedPath": "literatureresearch/plot_dump/x0.526521270104345_ensg00000103740_chr15.78243688.78243847.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.533248115759203_ENSG00000134539_chr12.10226998.10227197.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106014,
+      "exportedPath": "literatureresearch/plot_dump/x0.533248115759203_ensg00000134539_chr12.10226998.10227197.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.534159576695956_ENSG00000173372_chr1.22635348.22635397.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95843,
+      "exportedPath": "literatureresearch/plot_dump/x0.534159576695956_ensg00000173372_chr1.22635348.22635397.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.545278541272798_ENSG00000120738_chr5.138466759.138466998.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88664,
+      "exportedPath": "literatureresearch/plot_dump/x0.545278541272798_ensg00000120738_chr5.138466759.138466998.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.549916811338795_ENSG00000163520_chr3.13550995.13551054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 99225,
+      "exportedPath": "literatureresearch/plot_dump/x0.549916811338795_ensg00000163520_chr3.13550995.13551054.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.551025467773231_ENSG00000118420_chr6.83065751.83065800.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98050,
+      "exportedPath": "literatureresearch/plot_dump/x0.551025467773231_ensg00000118420_chr6.83065751.83065800.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.555984333366221_ENSG00000101307_chr20.1621351.1621950.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101847,
+      "exportedPath": "literatureresearch/plot_dump/x0.555984333366221_ensg00000101307_chr20.1621351.1621950.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.558001637663955_ENSG00000113356_chr5.90473458.90473547.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 107212,
+      "exportedPath": "literatureresearch/plot_dump/x0.558001637663955_ensg00000113356_chr5.90473458.90473547.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.567330246986036_ENSG00000128342_chr22.30247659.30247698.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105350,
+      "exportedPath": "literatureresearch/plot_dump/x0.567330246986036_ensg00000128342_chr22.30247659.30247698.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.582634089574314_ENSG00000132970_chr13.26556103.26556792.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97706,
+      "exportedPath": "literatureresearch/plot_dump/x0.582634089574314_ensg00000132970_chr13.26556103.26556792.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.587101574631927_ENSG00000136158_chr13.80339126.80339195.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89686,
+      "exportedPath": "literatureresearch/plot_dump/x0.587101574631927_ensg00000136158_chr13.80339126.80339195.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.633588318356837_ENSG00000103740_chr15.78243688.78243847.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98057,
+      "exportedPath": "literatureresearch/plot_dump/x0.633588318356837_ensg00000103740_chr15.78243688.78243847.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.633588318356837_ENSG00000103740_chr15.78243688.78243847 1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98057,
+      "exportedPath": "literatureresearch/plot_dump/x0.633588318356837_ensg00000103740_chr15.78243688.78243847-1.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/plot_dump/X0.711765807251866_ENSG00000182310_chr19.51690548.51690747.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101290,
+      "exportedPath": "literatureresearch/plot_dump/x0.711765807251866_ensg00000182310_chr19.51690548.51690747.png",
+      "dependencies": []
+    },
+    "LiteratureResearch/Targets/CheckTopCorrelationsOfEnrichInput.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 3363,
+      "exportedPath": "literatureresearch/targets/checktopcorrelationsofenrichinput.html",
+      "dependencies": []
+    },
+    "LiteratureResearch/Targets/ExtractFromLiterature.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 4822,
+      "exportedPath": "literatureresearch/targets/extractfromliterature.html",
+      "dependencies": []
+    },
+    "LiteratureResearch/Targets/PotentialHitsOfInterest.md": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 9077,
+      "exportedPath": "literatureresearch/targets/potentialhitsofinterest.html",
+      "dependencies": []
+    },
+    "lib/media/x0.484805328476797_ensg00000008311_chr7.122145748.122145957.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90088,
+      "exportedPath": "lib/media/x0.484805328476797_ensg00000008311_chr7.122145748.122145957.png",
+      "dependencies": []
+    },
+    "lib/media/x0.526521270104345_ensg00000103740_chr15.78243688.78243847.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 94147,
+      "exportedPath": "lib/media/x0.526521270104345_ensg00000103740_chr15.78243688.78243847.png",
+      "dependencies": []
+    },
+    "lib/media/x0.633588318356837_ensg00000103740_chr15.78243688.78243847-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98057,
+      "exportedPath": "lib/media/x0.633588318356837_ensg00000103740_chr15.78243688.78243847-1.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.546623944697402_ensg00000139567_chr12.51907898.51908147.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 115417,
+      "exportedPath": "lib/media/x-0.546623944697402_ensg00000139567_chr12.51907898.51908147.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.34115435227279_ensg00000139567_chr12.51907898.51908147.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 100478,
+      "exportedPath": "lib/media/x-0.34115435227279_ensg00000139567_chr12.51907898.51908147.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.674842593847891_ensg00000128165_chr22.50479803.50479902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106243,
+      "exportedPath": "lib/media/x-0.674842593847891_ensg00000128165_chr22.50479803.50479902.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.599492420662617_ensg00000128165_chr22.50479803.50479902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 109935,
+      "exportedPath": "lib/media/x-0.599492420662617_ensg00000128165_chr22.50479803.50479902.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.563450749462579_ensg00000128165_chr22.50479803.50479902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 107026,
+      "exportedPath": "lib/media/x-0.563450749462579_ensg00000128165_chr22.50479803.50479902.png",
+      "dependencies": []
+    },
+    "lib/media/x0.398935403357672_ensg00000131471_chr17.42849754.42849853.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84659,
+      "exportedPath": "lib/media/x0.398935403357672_ensg00000131471_chr17.42849754.42849853.png",
+      "dependencies": []
+    },
+    "lib/media/x0.143614156981566_ensg00000131471_chr17.42849754.42849853.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 75772,
+      "exportedPath": "lib/media/x0.143614156981566_ensg00000131471_chr17.42849754.42849853.png",
+      "dependencies": []
+    },
+    "lib/media/x0.418963162200026_ensg00000101200_chr20.3082724.3082853.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97027,
+      "exportedPath": "lib/media/x0.418963162200026_ensg00000101200_chr20.3082724.3082853.png",
+      "dependencies": []
+    },
+    "lib/media/x0.482629132926501_ensg00000123685_chr1.212700750.212700809.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95255,
+      "exportedPath": "lib/media/x0.482629132926501_ensg00000123685_chr1.212700750.212700809.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.566929432863315_ensg00000186716_chr22.23180944.23181053.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110138,
+      "exportedPath": "lib/media/x-0.566929432863315_ensg00000186716_chr22.23180944.23181053.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.576994432758012_ensg00000147439_chr8.22669858.22669947.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102745,
+      "exportedPath": "lib/media/x-0.576994432758012_ensg00000147439_chr8.22669858.22669947.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.539200207318231_ensg00000147439_chr8.22669858.22669947.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 99282,
+      "exportedPath": "lib/media/x-0.539200207318231_ensg00000147439_chr8.22669858.22669947.png",
+      "dependencies": []
+    },
+    "lib/media/x0.403132419424492_ensg00000136573_chr8.11486204.11486343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92171,
+      "exportedPath": "lib/media/x0.403132419424492_ensg00000136573_chr8.11486204.11486343.png",
+      "dependencies": []
+    },
+    "lib/media/x0.186977499352447_ensg00000136573_chr8.11486204.11486343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 75086,
+      "exportedPath": "lib/media/x0.186977499352447_ensg00000136573_chr8.11486204.11486343.png",
+      "dependencies": []
+    },
+    "lib/media/x0.416255301432664_ensg00000166780_chr16.15435795.15435854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93316,
+      "exportedPath": "lib/media/x0.416255301432664_ensg00000166780_chr16.15435795.15435854.png",
+      "dependencies": []
+    },
+    "lib/media/x0.447102038578805_ensg00000166780_chr16.15435795.15435854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102213,
+      "exportedPath": "lib/media/x0.447102038578805_ensg00000166780_chr16.15435795.15435854.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.640294515258469_ensg00000119411_chr9.113350051.113350600.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 107960,
+      "exportedPath": "lib/media/x-0.640294515258469_ensg00000119411_chr9.113350051.113350600.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.388080201932803_ensg00000119411_chr9.113350051.113350600.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89720,
+      "exportedPath": "lib/media/x-0.388080201932803_ensg00000119411_chr9.113350051.113350600.png",
+      "dependencies": []
+    },
+    "lib/media/x0.534159576695956_ensg00000173372_chr1.22635348.22635397.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95843,
+      "exportedPath": "lib/media/x0.534159576695956_ensg00000173372_chr1.22635348.22635397.png",
+      "dependencies": []
+    },
+    "lib/media/x0.421320323069108_ensg00000173372_chr1.22635348.22635397-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 85287,
+      "exportedPath": "lib/media/x0.421320323069108_ensg00000173372_chr1.22635348.22635397-1.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.492391869053166_ensg00000173369_chr1.22653592.22653941.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108675,
+      "exportedPath": "lib/media/x-0.492391869053166_ensg00000173369_chr1.22653592.22653941.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.476207029657531_ensg00000173369_chr1.22653592.22653941.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96373,
+      "exportedPath": "lib/media/x-0.476207029657531_ensg00000173369_chr1.22653592.22653941.png",
+      "dependencies": []
+    },
+    "lib/media/x0.490239698682551_ensg00000182985_chr11.115503047.115503596.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101407,
+      "exportedPath": "lib/media/x0.490239698682551_ensg00000182985_chr11.115503047.115503596.png",
+      "dependencies": []
+    },
+    "lib/media/x0.337498102883354_ensg00000182985_chr11.115503047.115503596.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 87952,
+      "exportedPath": "lib/media/x0.337498102883354_ensg00000182985_chr11.115503047.115503596.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.494291144522273_ensg00000121807_chr3.46353154.46353403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104758,
+      "exportedPath": "lib/media/x-0.494291144522273_ensg00000121807_chr3.46353154.46353403.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.491843918489212_ensg00000121807_chr3.46353154.46353403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106204,
+      "exportedPath": "lib/media/x-0.491843918489212_ensg00000121807_chr3.46353154.46353403.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.744137553098035_ensg00000137101_chr9.35647700.35647749.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 113589,
+      "exportedPath": "lib/media/x-0.744137553098035_ensg00000137101_chr9.35647700.35647749.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.655061695502661_ensg00000137101_chr9.35647700.35647749.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101998,
+      "exportedPath": "lib/media/x-0.655061695502661_ensg00000137101_chr9.35647700.35647749.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.625000916273829_ensg00000087237_chr16.56961923.56962152.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106053,
+      "exportedPath": "lib/media/x-0.625000916273829_ensg00000087237_chr16.56961923.56962152.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.505057498652164_ensg00000087237_chr16.56961923.56962152.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97660,
+      "exportedPath": "lib/media/x-0.505057498652164_ensg00000087237_chr16.56961923.56962152.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.679526734971685_ensg00000165507_chr10.44980559.44980598.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 120202,
+      "exportedPath": "lib/media/x-0.679526734971685_ensg00000165507_chr10.44980559.44980598.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.602060635622852_ensg00000165507_chr10.44980559.44980598.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 109640,
+      "exportedPath": "lib/media/x-0.602060635622852_ensg00000165507_chr10.44980559.44980598.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.405479918605537_ensg00000143369_chr1.150506202.150506251.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93506,
+      "exportedPath": "lib/media/x-0.405479918605537_ensg00000143369_chr1.150506202.150506251.png",
+      "dependencies": []
+    },
+    "lib/media/x0.545278541272798_ensg00000120738_chr5.138466759.138466998.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88664,
+      "exportedPath": "lib/media/x0.545278541272798_ensg00000120738_chr5.138466759.138466998.png",
+      "dependencies": []
+    },
+    "lib/media/x0.2524969579821_ensg00000120738_chr5.138466759.138466998.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84929,
+      "exportedPath": "lib/media/x0.2524969579821_ensg00000120738_chr5.138466759.138466998.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.407618217584307_ensg00000106991_chr9.127853598.127853857.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 117046,
+      "exportedPath": "lib/media/x-0.407618217584307_ensg00000106991_chr9.127853598.127853857.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.264086351006347_ensg00000106991_chr9.127853598.127853857.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84256,
+      "exportedPath": "lib/media/x-0.264086351006347_ensg00000106991_chr9.127853598.127853857.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.565217391304348_ensg00000124019_chr2.224401247.224401396.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 133734,
+      "exportedPath": "lib/media/x-0.565217391304348_ensg00000124019_chr2.224401247.224401396.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.542280327086649_ensg00000124019_chr2.224401247.224401396.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 122885,
+      "exportedPath": "lib/media/x-0.542280327086649_ensg00000124019_chr2.224401247.224401396.png",
+      "dependencies": []
+    },
+    "lib/media/x0.549916811338795_ensg00000163520_chr3.13550995.13551054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 99225,
+      "exportedPath": "lib/media/x0.549916811338795_ensg00000163520_chr3.13550995.13551054.png",
+      "dependencies": []
+    },
+    "lib/media/x0.520008165218343_ensg00000163520_chr3.13550995.13551054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92238,
+      "exportedPath": "lib/media/x0.520008165218343_ensg00000163520_chr3.13550995.13551054.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.426234756865677_ensg00000126266_chr19.35350252.35350351.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95817,
+      "exportedPath": "lib/media/x-0.426234756865677_ensg00000126266_chr19.35350252.35350351.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.402641010620334_ensg00000126266_chr19.35350252.35350351.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 78171,
+      "exportedPath": "lib/media/x-0.402641010620334_ensg00000126266_chr19.35350252.35350351.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.555041740417994_ensg00000186765_chr17.81527997.81528046.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105302,
+      "exportedPath": "lib/media/x-0.555041740417994_ensg00000186765_chr17.81527997.81528046.png",
+      "dependencies": []
+    },
+    "lib/media/x0.451623931623932_ensg00000111087_chr12.57461045.57461604.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106662,
+      "exportedPath": "lib/media/x0.451623931623932_ensg00000111087_chr12.57461045.57461604.png",
+      "dependencies": []
+    },
+    "lib/media/x0.37035795874218_ensg00000111087_chr12.57461045.57461604.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93777,
+      "exportedPath": "lib/media/x0.37035795874218_ensg00000111087_chr12.57461045.57461604.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.508681625894439_ensg00000114450_chr3.179450656.179450805.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 103282,
+      "exportedPath": "lib/media/x-0.508681625894439_ensg00000114450_chr3.179450656.179450805.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.417123585332189_ensg00000114450_chr3.179450656.179450805.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96416,
+      "exportedPath": "lib/media/x-0.417123585332189_ensg00000114450_chr3.179450656.179450805.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.510118323658172_ensg00000168517_chr17.45161200.45161249.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 119470,
+      "exportedPath": "lib/media/x-0.510118323658172_ensg00000168517_chr17.45161200.45161249.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.409411976842975_ensg00000168517_chr17.45161200.45161249.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102289,
+      "exportedPath": "lib/media/x-0.409411976842975_ensg00000168517_chr17.45161200.45161249.png",
+      "dependencies": []
+    },
+    "lib/media/x0.56364950170978_ensg00000115604_chr2.102311309.102311398.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106595,
+      "exportedPath": "lib/media/x0.56364950170978_ensg00000115604_chr2.102311309.102311398.png",
+      "dependencies": []
+    },
+    "lib/media/x0.490451182883573_ensg00000115604_chr2.102311309.102311398.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96375,
+      "exportedPath": "lib/media/x0.490451182883573_ensg00000115604_chr2.102311309.102311398.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.572015831622048_ensg00000137265_chr6.392002.392041.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95026,
+      "exportedPath": "lib/media/x-0.572015831622048_ensg00000137265_chr6.392002.392041.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.437403722743327_ensg00000092051_chr14.23580350.23580599.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95933,
+      "exportedPath": "lib/media/x-0.437403722743327_ensg00000092051_chr14.23580350.23580599.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.470889386401492_ensg00000131398_chr19.50331805.50331954.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90926,
+      "exportedPath": "lib/media/x-0.470889386401492_ensg00000131398_chr19.50331805.50331954.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.44999021101088_ensg00000131398_chr19.50331805.50331954.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 87845,
+      "exportedPath": "lib/media/x-0.44999021101088_ensg00000131398_chr19.50331805.50331954.png",
+      "dependencies": []
+    },
+    "lib/media/x0.533248115759203_ensg00000134539_chr12.10226998.10227197.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106014,
+      "exportedPath": "lib/media/x0.533248115759203_ensg00000134539_chr12.10226998.10227197.png",
+      "dependencies": []
+    },
+    "lib/media/x0.435820012353856_ensg00000134539_chr12.10226998.10227197-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89523,
+      "exportedPath": "lib/media/x0.435820012353856_ensg00000134539_chr12.10226998.10227197-1.png",
+      "dependencies": []
+    },
+    "lib/media/x0.567330246986036_ensg00000128342_chr22.30247659.30247698.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105350,
+      "exportedPath": "lib/media/x0.567330246986036_ensg00000128342_chr22.30247659.30247698.png",
+      "dependencies": []
+    },
+    "lib/media/x0.418860153131241_ensg00000128342_chr22.30247659.30247698.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92013,
+      "exportedPath": "lib/media/x0.418860153131241_ensg00000128342_chr22.30247659.30247698.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.652888361182894_ensg00000069535_chrx.43880900.43881199.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 114643,
+      "exportedPath": "lib/media/x-0.652888361182894_ensg00000069535_chrx.43880900.43881199.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.610392781028997_ensg00000069535_chrx.43880900.43881199.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 117253,
+      "exportedPath": "lib/media/x-0.610392781028997_ensg00000069535_chrx.43880900.43881199.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.532891867551651_ensg00000069535_chrx.43880900.43881199.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105724,
+      "exportedPath": "lib/media/x-0.532891867551651_ensg00000069535_chrx.43880900.43881199.png",
+      "dependencies": []
+    },
+    "lib/media/x0.437841121010921_ensg00000101057_chr20.43667899.43668008.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97630,
+      "exportedPath": "lib/media/x0.437841121010921_ensg00000101057_chr20.43667899.43668008.png",
+      "dependencies": []
+    },
+    "lib/media/x0.309404421967792_ensg00000101057_chr20.43667899.43668008.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 79625,
+      "exportedPath": "lib/media/x0.309404421967792_ensg00000101057_chr20.43667899.43668008.png",
+      "dependencies": []
+    },
+    "lib/media/x0.435320426546348_ensg00000136997_chr8.127737154.127737343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89218,
+      "exportedPath": "lib/media/x0.435320426546348_ensg00000136997_chr8.127737154.127737343.png",
+      "dependencies": []
+    },
+    "lib/media/x0.406576522236749_ensg00000136997_chr8.127737154.127737343.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 81524,
+      "exportedPath": "lib/media/x0.406576522236749_ensg00000136997_chr8.127737154.127737343.png",
+      "dependencies": []
+    },
+    "lib/media/x0.463013063316725_ensg00000065534_chr3.123885002.123885151.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 99216,
+      "exportedPath": "lib/media/x0.463013063316725_ensg00000065534_chr3.123885002.123885151.png",
+      "dependencies": []
+    },
+    "lib/media/x0.45789111773944_ensg00000065534_chr3.123885002.123885151.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 94424,
+      "exportedPath": "lib/media/x0.45789111773944_ensg00000065534_chr3.123885002.123885151.png",
+      "dependencies": []
+    },
+    "lib/media/x0.464624555443145_ensg00000182636_chr15.23686755.23687054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88533,
+      "exportedPath": "lib/media/x0.464624555443145_ensg00000182636_chr15.23686755.23687054.png",
+      "dependencies": []
+    },
+    "lib/media/x0.447373245911302_ensg00000182636_chr15.23686755.23687054.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88162,
+      "exportedPath": "lib/media/x0.447373245911302_ensg00000182636_chr15.23686755.23687054.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.51197851455015_ensg00000183648_chr14.92122347.92122546.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108661,
+      "exportedPath": "lib/media/x-0.51197851455015_ensg00000183648_chr14.92122347.92122546.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.511572157494249_ensg00000183648_chr14.92122347.92122546.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110439,
+      "exportedPath": "lib/media/x-0.511572157494249_ensg00000183648_chr14.92122347.92122546.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.317984295649887_ensg00000104722_chr8.24915498.24915557.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90780,
+      "exportedPath": "lib/media/x-0.317984295649887_ensg00000104722_chr8.24915498.24915557.png",
+      "dependencies": []
+    },
+    "lib/media/x0.136517767549384_ensg00000104722_chr8.24915498.24915557.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 81868,
+      "exportedPath": "lib/media/x0.136517767549384_ensg00000104722_chr8.24915498.24915557.png",
+      "dependencies": []
+    },
+    "lib/media/x0.438021619079612_ensg00000141905_chr19.3315703.3315902.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 80837,
+      "exportedPath": "lib/media/x0.438021619079612_ensg00000141905_chr19.3315703.3315902.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.445899147419675_ensg00000148498_chr10.34814645.34814854.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104721,
+      "exportedPath": "lib/media/x-0.445899147419675_ensg00000148498_chr10.34814645.34814854.png",
+      "dependencies": []
+    },
+    "lib/media/x0.441514016144204_ensg00000148498_chr10.34814645.34814854-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88321,
+      "exportedPath": "lib/media/x0.441514016144204_ensg00000148498_chr10.34814645.34814854-1.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.478266226523006_ensg00000160191_chr21.42653101.42653200-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 118118,
+      "exportedPath": "lib/media/x-0.478266226523006_ensg00000160191_chr21.42653101.42653200-1.png",
+      "dependencies": []
+    },
+    "lib/media/x0.435010233662421_ensg00000160191_chr21.42653101.42653200.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89704,
+      "exportedPath": "lib/media/x0.435010233662421_ensg00000160191_chr21.42653101.42653200.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.518312986376532_ensg00000104883_chr19.7496959.7497048.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 88857,
+      "exportedPath": "lib/media/x-0.518312986376532_ensg00000104883_chr19.7496959.7497048.png",
+      "dependencies": []
+    },
+    "lib/media/x0.558001637663955_ensg00000113356_chr5.90473458.90473547.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 107212,
+      "exportedPath": "lib/media/x0.558001637663955_ensg00000113356_chr5.90473458.90473547.png",
+      "dependencies": []
+    },
+    "lib/media/x0.457955189747712_ensg00000113356_chr5.90473458.90473547.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 84351,
+      "exportedPath": "lib/media/x0.457955189747712_ensg00000113356_chr5.90473458.90473547.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.550398950346568_ensg00000163421_chr3.71786356.71786445.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92272,
+      "exportedPath": "lib/media/x-0.550398950346568_ensg00000163421_chr3.71786356.71786445.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.548805375747759_ensg00000163421_chr3.71786356.71786445.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 93509,
+      "exportedPath": "lib/media/x-0.548805375747759_ensg00000163421_chr3.71786356.71786445.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.444456073196506_ensg00000163421_chr3.71786356.71786445.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95902,
+      "exportedPath": "lib/media/x-0.444456073196506_ensg00000163421_chr3.71786356.71786445.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.626279424983056_ensg00000172602_chr12.48867210.48867349.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 117106,
+      "exportedPath": "lib/media/x-0.626279424983056_ensg00000172602_chr12.48867210.48867349.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.628809895440828_ensg00000172602_chr12.48867210.48867349.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110739,
+      "exportedPath": "lib/media/x-0.628809895440828_ensg00000172602_chr12.48867210.48867349.png",
+      "dependencies": []
+    },
+    "lib/media/x0.504338365489988_ensg00000115884_chr2.20224403.20224502.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 71854,
+      "exportedPath": "lib/media/x0.504338365489988_ensg00000115884_chr2.20224403.20224502.png",
+      "dependencies": []
+    },
+    "lib/media/x0.332826861139384_ensg00000115884_chr2.20224403.20224502.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 83299,
+      "exportedPath": "lib/media/x0.332826861139384_ensg00000115884_chr2.20224403.20224502.png",
+      "dependencies": []
+    },
+    "lib/media/x0.40007768791627_ensg00000069188_chr17.73643905.73644104.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89882,
+      "exportedPath": "lib/media/x0.40007768791627_ensg00000069188_chr17.73643905.73644104.png",
+      "dependencies": []
+    },
+    "lib/media/x0.409566315098446_ensg00000069188_chr17.73643905.73644104.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 77875,
+      "exportedPath": "lib/media/x0.409566315098446_ensg00000069188_chr17.73643905.73644104.png",
+      "dependencies": []
+    },
+    "lib/media/x0.555984333366221_ensg00000101307_chr20.1621351.1621950.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101847,
+      "exportedPath": "lib/media/x0.555984333366221_ensg00000101307_chr20.1621351.1621950.png",
+      "dependencies": []
+    },
+    "lib/media/x0.497727081709257_ensg00000101307_chr20.1621351.1621950.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98250,
+      "exportedPath": "lib/media/x0.497727081709257_ensg00000101307_chr20.1621351.1621950.png",
+      "dependencies": []
+    },
+    "lib/media/x0.454187420796908_ensg00000185052_chr20.19212802.19212901.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 83332,
+      "exportedPath": "lib/media/x0.454187420796908_ensg00000185052_chr20.19212802.19212901.png",
+      "dependencies": []
+    },
+    "lib/media/x0.484755823486822_ensg00000185052_chr20.19212802.19212901.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 92929,
+      "exportedPath": "lib/media/x0.484755823486822_ensg00000185052_chr20.19212802.19212901.png",
+      "dependencies": []
+    },
+    "lib/media/x0.711765807251866_ensg00000182310_chr19.51690548.51690747.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101290,
+      "exportedPath": "lib/media/x0.711765807251866_ensg00000182310_chr19.51690548.51690747.png",
+      "dependencies": []
+    },
+    "lib/media/x0.587101574631927_ensg00000136158_chr13.80339126.80339195.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89686,
+      "exportedPath": "lib/media/x0.587101574631927_ensg00000136158_chr13.80339126.80339195.png",
+      "dependencies": []
+    },
+    "lib/media/x0.398768042453456_ensg00000136158_chr13.80339126.80339195.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 75028,
+      "exportedPath": "lib/media/x0.398768042453456_ensg00000136158_chr13.80339126.80339195.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.565878063939569_ensg00000133069_chr1.205229706.205229755.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 125990,
+      "exportedPath": "lib/media/x-0.565878063939569_ensg00000133069_chr1.205229706.205229755.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.578812669346605_ensg00000133069_chr1.205229706.205229755.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90282,
+      "exportedPath": "lib/media/x-0.578812669346605_ensg00000133069_chr1.205229706.205229755.png",
+      "dependencies": []
+    },
+    "lib/media/x0.38077105054779_ensg00000116857_chr1.201173354.201173403-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 103725,
+      "exportedPath": "lib/media/x0.38077105054779_ensg00000116857_chr1.201173354.201173403-1.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.615341068167943_ensg00000116857_chr1.201171504.201171573.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 109268,
+      "exportedPath": "lib/media/x-0.615341068167943_ensg00000116857_chr1.201171504.201171573.png",
+      "dependencies": []
+    },
+    "lib/media/x0.462649272489503_ensg00000116857_chr1.201173354.201173403.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 96099,
+      "exportedPath": "lib/media/x0.462649272489503_ensg00000116857_chr1.201173354.201173403.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.551688740890246_ensg00000116857_chr1.201171504.201171573.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108112,
+      "exportedPath": "lib/media/x-0.551688740890246_ensg00000116857_chr1.201171504.201171573.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.559445940746441_ensg00000159958_chr22.41927056.41927305.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102400,
+      "exportedPath": "lib/media/x-0.559445940746441_ensg00000159958_chr22.41927056.41927305.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.500856135434196_ensg00000159958_chr22.41927056.41927305-1.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95583,
+      "exportedPath": "lib/media/x-0.500856135434196_ensg00000159958_chr22.41927056.41927305-1.png",
+      "dependencies": []
+    },
+    "lib/media/x0.446134293581859_ensg00000129167_chr11.18047249.18047448.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95394,
+      "exportedPath": "lib/media/x0.446134293581859_ensg00000129167_chr11.18047249.18047448.png",
+      "dependencies": []
+    },
+    "lib/media/x0.381171381292806_ensg00000129167_chr11.18047249.18047448.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 87872,
+      "exportedPath": "lib/media/x0.381171381292806_ensg00000129167_chr11.18047249.18047448.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.447030955746106_ensg00000082512_chr1.211328405.211328615.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 102426,
+      "exportedPath": "lib/media/x-0.447030955746106_ensg00000082512_chr1.211328405.211328615.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.560817732823596_ensg00000132481_chr17.75880251.75880580.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104791,
+      "exportedPath": "lib/media/x-0.560817732823596_ensg00000132481_chr17.75880251.75880580.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.508442547618748_ensg00000132481_chr17.75880251.75880580.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 95591,
+      "exportedPath": "lib/media/x-0.508442547618748_ensg00000132481_chr17.75880251.75880580.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.647386108074329_ensg00000141759_chr18.80031999.80032158.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101068,
+      "exportedPath": "lib/media/x-0.647386108074329_ensg00000141759_chr18.80031999.80032158.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.470549348715638_ensg00000141759_chr18.80031999.80032158.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98205,
+      "exportedPath": "lib/media/x-0.470549348715638_ensg00000141759_chr18.80031999.80032158.png",
+      "dependencies": []
+    },
+    "lib/media/x0.551025467773231_ensg00000118420_chr6.83065751.83065800.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98050,
+      "exportedPath": "lib/media/x0.551025467773231_ensg00000118420_chr6.83065751.83065800.png",
+      "dependencies": []
+    },
+    "lib/media/x0.30977259950247_ensg00000118420_chr6.83065751.83065800.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 89613,
+      "exportedPath": "lib/media/x0.30977259950247_ensg00000118420_chr6.83065751.83065800.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.3534652016234_ensg00000127481_chr1.19209546.19209555.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 108484,
+      "exportedPath": "lib/media/x-0.3534652016234_ensg00000127481_chr1.19209546.19209555.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.280612068020731_ensg00000127481_chr1.19209546.19209555.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 94629,
+      "exportedPath": "lib/media/x-0.280612068020731_ensg00000127481_chr1.19209546.19209555.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.709812235903985_ensg00000136014_chr12.95551956.95552145.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 118536,
+      "exportedPath": "lib/media/x-0.709812235903985_ensg00000136014_chr12.95551956.95552145.png",
+      "dependencies": []
+    },
+    "lib/media/x-0.536639555044671_ensg00000136014_chr12.95551956.95552145.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 101057,
+      "exportedPath": "lib/media/x-0.536639555044671_ensg00000136014_chr12.95551956.95552145.png",
+      "dependencies": []
+    },
+    "lib/media/x0.582634089574314_ensg00000132970_chr13.26556103.26556792.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 97706,
+      "exportedPath": "lib/media/x0.582634089574314_ensg00000132970_chr13.26556103.26556792.png",
+      "dependencies": []
+    },
+    "lib/media/x0.66769711356067_ensg00000132970_chr13.26556103.26556792.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106645,
+      "exportedPath": "lib/media/x0.66769711356067_ensg00000132970_chr13.26556103.26556792.png",
+      "dependencies": []
+    },
+    "lib/media/x0.62207022736098_ensg00000132970_chr13.26556103.26556792.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 110037,
+      "exportedPath": "lib/media/x0.62207022736098_ensg00000132970_chr13.26556103.26556792.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 90137,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 5608,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1729012145494,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    }
+  }
+}
