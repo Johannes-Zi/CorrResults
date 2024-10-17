@@ -7,8 +7,8 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: #f4f4f9;
-            color: #333;
+            background: #2a2a2a; /* Slightly lighter background */
+            color: #e0e0e0;
             margin: 0;
             padding: 0;
             display: flex;
@@ -16,43 +16,79 @@
             align-items: center;
             height: 100vh;
             text-align: center;
+            overflow: hidden;
         }
+
+        /* Adjusted moving gradient background with softer purple and orange tones */
+        body::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(45deg, #4e4949, #74468d, #4e4949, #b25c3d, #4e4949, #5c4b80, #4e4949, #b25c3d);
+            background-size: 400% 400%;
+            animation: gradientAnimation 90s ease infinite; /* Slower animation */
+            z-index: -1;
+        }
+
+        @keyframes gradientAnimation {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
         header {
-            background: #4a90e2;
+            background: #5a5a5a;
             padding: 20px;
             width: 100%;
-            color: white;
+            color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
         }
+
         h1 {
             margin: 0;
             font-size: 2em;
         }
+
         .content {
             padding: 20px;
-            background: white;
+            background: #5a5a5a; /* Slightly brighter content box */
             border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
         }
+
         p {
             font-size: 1.1em;
             margin-bottom: 20px;
+            color: #d0d0d0;
         }
+
         .btn {
-            background: #4a90e2;
-            color: white;
+            background: #a29792;
+            color: #e0e0e0;
             padding: 10px 20px;
             text-decoration: none;
             border-radius: 5px;
             font-weight: bold;
             transition: background 0.3s ease;
         }
+
         .btn:hover {
             background: #357abd;
         }
+
         footer {
             margin-top: 20px;
             font-size: 0.9em;
-            color: #666;
+            color: #bfbfbf;
         }
     </style>
 </head>
@@ -62,7 +98,7 @@
     </header>
     <div class="content">
         <p>Welcome to the correlation visualization! Click the link below to explore the details of the analysis.</p>
-        <a class="btn" href="literatureresearch/targets/potentialhitsofinterest.html">Explore Potential Hits of Interest</a>
+        <a class="btn" href="literatureresearch/potentialhitsofinterest.html">Explore Potential Hits of Interest</a>
     </div>
     <footer>
         <p>Johannes Zieres</p>
